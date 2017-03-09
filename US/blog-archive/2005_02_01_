@@ -1,0 +1,253 @@
+<html><head><title>Wooden Spoon</title>
+
+<style>
+body		{font-family: verdana, helvetica, sans-serif; color: #333333; 
+			font-size: 0.8em; margin-left: auto; margin-right: auto; padding: 0;
+			border: 1px solid black; width: 800px;}
+h2,  .PostTitle	{font-size: 1.2em; font-weight: bold;}
+h3, .DateHeader	{font-size: 1em; font-weight: bold;}
+.DateHeader {display: block; color: gray; font-weight: bold; border-bottom: solid 1px gray; margin-right: 180px; margin: 1.5em 0 0 0;}
+a                    {color: #005cc2;}
+p, li			{line-height: 1.2;}
+div.toplevel {}
+div.layout	{margin: 0;}
+div#menu 	{background: white;}
+div#menu td {width: 133px; padding: 5px;}
+div#menu a	{font-weight: bold; text-align: center; text-decoration: none;
+			color: #005cc2; display: block; margin:0;}
+div#menu a:visited{}
+div#menu a:hover{color: white; background: #005cc2;}
+div#menu p.current {font-weight: bold; text-align: center; text-decoration: none;
+					color: #000066; border: 1px solid #005cc2;}
+
+div#banner	{background-image: url(http://www.usingmainlyspoons.com/Banners/leaves.jpg); width: 800px; height: 100px;}
+div#homebanner {background-image: url(http://www.usingmainlyspoons.com/Banners/hammersmith.jpg); width: 800px; 
+				height:400px;}
+div#title	{font-size: 28px; font-weight: bold; color: white; padding: 4px;}
+.PostFooter 	{margin: 0; padding: 0; line-height: 0;}
+div#rightnav {border: 1px dashed gray; float: right; width: 150px;
+				margin: 0 0.5em 1em 1em; padding: 1em; line-height: 1;}			
+div#intro	{font-weight: bold; color: #000066; margin: 1em 0 1em 3em; padding: 0; 
+			font-size: 1.3em;}
+div#content	{padding: 1em 4em 0 4em;}
+div#footer	{text-align: center; font-size: 0.8em; color: gray;}
+</style>
+<!-- Meta Information-->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta name="generator" content="Blogger" />
+        <!-- Site Feed Autodiscovery-->
+        <link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+
+        <!-- Atom API Posting Autodiscovery -->
+        <link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+
+        <!-- Blogger API Autodiscovery -->
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+<style type="text/css">
+@import url("http://www2.blogger.com/css/blog_controls.css");
+@import url("http://www2.blogger.com/dyn-css/authorization.css?blogID=6696593");
+</style>
+
+</head>
+
+<body>
+<div class="toplevel" id="top">
+	<div class="layout" class="home" id="banner">
+		<div id="title">Wooden Spoon</div>
+	</div>
+	<div class="layout" id="menu">
+		<table>
+		<tr>
+		<td><a href="http://www.usingmainlyspoons.com/index.html">home</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/about.html">about</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/london.html">london</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/travel.html">travel</a></td>
+		<td><p class="current">blog</p></td>
+		<td><a href="http://www.usingmainlyspoons.com/wedding.html">wedding</a></td>
+		</tr>
+		</table>
+	</div>
+</div>
+<div class="toplevel" id="bottom">
+	<div id="rightnav" class="home">
+       <script type="text/javascript" src="http://embed.technorati.com/embed/ifntxd4bk.js"></script>
+       <script type="text/javascript" src="http://embed.technorati.com/embed/nrpx623rcm.js"></script>
+	<h3>Links</h3>
+          <li><a href="http://www.technorati.com/faves/lou31">My Technorati</a> - favourite blogs</li>
+          <li><a href="http://del.icio.us/lrm20">My Del.icio.us</a> - bookmarked pages</li>
+          <li><a href="http://www.flickr.com/photos/louise_marston/">My Flickr</a> - online photos</li>
+	<h3>Archives</h3>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_10_01_'>October 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_11_01_'>November 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_12_01_'>December 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_01_01_'>January 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_02_01_'>February 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_04_01_'>April 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_05_01_'>May 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_06_01_'>June 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_07_01_'>July 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_08_01_'>August 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_11_01_'>November 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_01_01_'>January 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_02_01_'>February 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_03_01_'>March 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_05_01_'>May 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_06_01_'>June 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_07_01_'>July 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_09_01_'>September 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_10_01_'>October 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_11_01_'>November 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_12_01_'>December 2006</a></li>
+	 
+	<a href="" title="Atom feed"><img src="http://www.usingmainlyspoons.com/Images/xml.gif"></a>
+	<a href="" title="Atom feed">Atom syndication</a>
+	</div>	
+	<div class="layout" id="intro">Louise's musings on life and cooking - but mostly cooking.</div>
+	<div class="layout" id="content">
+	
+   	
+        <div class="DateHeader">Tuesday, February 15, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110784579714066616">&nbsp;</a><br />
+ <span class="PostTitle">
+  Video on the Web</a>
+</span><br />
+      Today, continuing the film theme, I thought I would give a little mini-guide to films and video on the web. This area has taken off in the last year or so.<br /><br />First off, film trailers, to link in with all the Oscar-related stuff. Apple hosts a huge number of past and present <a href="http://www.apple.com/trailers">film trailers</a> on it's site as a promotion for it's Quicktime video software (which is free to download as a player). You can also access these through <a href="http://www.apple.com/itunes/jukebox.html">iTunes</a> if you have it (although I actually prefer the web page interface). As it is mostly U.S. trailers on the site, this is a good way to preview films before they reach the UK.<br /><br />Atom Films is a site showcasing independent films and animation, generally pretty short pieces. You can give you rating and write reviews, so it quickly reveals those that are worth a look. Some seem to generate a pretty cult following. This sort of site will undoubtedly be where the Oscar-winners (or at least Sundance-favourites) of the future are to be found. I'm currently enjoying <a href="http://www.atomfilms.com/af/content/this_land_af">This Land</a>, a nice little summary of the U.S. election in the form of a version of the Woody Guthrie song.<br /><br />Being deprived of the <a href="http://www.bbc.co.uk/">BBC</a> (and believe me, 300-odd channels can't make up for lack of decent content), one of the best ways for me to access it is through their new <a href="http://www.bbc.co.uk/go/homepage/int/rad/-/radio/aod/">Player application</a>. This is an extension of the Radio Player, which allowed you to listen to radio live online or to listen to previously broadcast shows. Now you can also access news reports, sports highlights and the weather forecast. It does require <a href="http://www.real.com">Real Player</a> though.<br /><br />I mentioned <a href="http://www.weebl.jolt.co.uk/">Weebl and Bob</a> on a previous blog, as winners of the Yahoo <a href="http://uk.dir.yahoo.com/finds_of_the_year_2004/">People's Choice</a> website award for 2004. Having explored the archive of cartoons of their site now, they are pretty good and deserve their popularity. Student humour, but none the worse for that :)<br /><br />If you don't fancy professionally-generated content, you can always see your nearest and dearest live on a webcam (assuming you both have them). We have had a great deal of success with Apple's iChat software interfacing with AOL 5.5 on our parent's PCs, where video-conferencing operates as an extension of AOL's Instant Messenger. As this requires Windows XP on the PC end, you can also use <a href="http://www.ivisit.com/">iVisit</a>, which is a cross-platform application.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/02/video-on-web.htm" title="permanent link">7:03 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/02/video-on-web.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Sunday, February 13, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110827386682689953">&nbsp;</a><br />
+ <span class="PostTitle">
+  Oscar update</a>
+</span><br />
+      Being moderately short of inspiration (and sick) at the moment, I thought I would give you a quick update of my progress in attempting to watch all the major Oscar-nominated films before the awards. In the week or so since the last post on this subject, I have worked through Hotel Rwanda, Maria Full of Grace and Sideways - three *very different films.<br /><br />Hotel Rwanda was very moving - but how could it not be, with such powerful and real-life subject matter. Nonetheless, it did a good job of telling the story, and I think the best actor nomination for Don Cheadle is certainly well deserved. Maria Full of Grace isn't one that I was expecting much from. A slightly obscure Colombian film, and something of a surprise in the nominations, it has received a nomination for best actress for Catalina Sandino Moreno. It is a story of a girl trying to escape poverty and look for something more extraordinary. Catalina Sandino Moreno does an excellent job - I don't know how old she is, but convincingly plays 17 in the film, and gives a phenomenal performance. If you get a chance, go and see it. Drugs in Colombia may not seem like an inspiring subject, but I promise you, it is an uplifting and often very funny film.<br />Sideways, as expected, was excellent. Yes, it is the only comedy nominated for best film, and it is very funny, but it is also more than that; it's a sensitive comedy, with real depth to the characters rather than just a series of farcical situations and pratfalls. A genuinely enjoyable movie on every dimension, and I wish it would win best film, although, as it is a comedy, it inevitably won't.<br /><br />Should be able to get in Ray and the Aviator this week, and maybe catch up on some of the others when I get to the UK in the week before Oscars.<br /><br />The Aviator<br />Before Sunset<br />Being Julia<br />Closer<br /><del>Collateral</del><br /><del>Eternal Sunshine of the Spotless Mind</del><br /><del>Finding Neverland</del><br /><del>Hotel Rwanda</del><br /><del>The Incredibles</del><br />Kinsey<br /><del>Maria Full of Grace</del><br /><del>Million Dollar Baby</del><br />The Motorcycle Diaries<br />Ray<br /><del>Sideways</del><br />Vera Drake<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/02/oscar-update.htm" title="permanent link">5:37 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/02/oscar-update.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Tuesday, February 08, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110784485552032042">&nbsp;</a><br />
+ <span class="PostTitle">
+  Superbowl Sunday</a>
+</span><br />
+      I'm sure it passed you all by, but last Sunday was Superbowl Sunday in the U.S. As you were probably spared any coverage at all, I thought I would give you a little guide to <a href="http://www.superbowl.com/">Superbowl XXXIX</a>.<br /><br />According to some friends of ours, the important things to do on Superbowl Sunday are, in order of importance:<br /><ol><br /><li>Get together with a room full of people and get drunk</li><br /><li>See the <a href="http://dyn.ifilm.com/superbowlads/">new Superbowl commercials</a></li><br /><li>Watch the game</li><br /><li>Watch the half-time show</li><br /></ol><br /><br />Well, we weren't a roomfull, but we did watch the game (and the commercials, and some of the show) with friends.<br /><br />Like many American sports, American football is on a stop-clock, meaning that the clock is suspended while there is no play going on, e.g. between plays or when there is a foul called. So while a game is officially 60 minutes of play (divided into four quarters), the Superbowl took over 3 hours to complete. Including the pre-game and post-game ceremonies and programming, there were around 5 hours of programming dedicated to the stadium events! <br /><br />The teams this year were the New England Patriots, who won the Superbowl last year and also in 2002, versus the Philadelphia Eagles. With this history, the Patriots were obviously the run-away favourites, with the Eagles playing the underdogs. The Eagles made a couple of purchases of players at the start of the football year with the specific intention of putting together a team to get to the Superbowl. One of these acquisitions was Terrell Owens, who became the star receiver for the team, taking them to a number of victories before <a href="http://www.philadelphiaeagles.com/homeNewsDetail.jsp?id=20154">becoming injured</a> in a December game. The injury was a broken leg below the knee, and a torn ankle ligament. So, everyone was pretty sure that he was written off, and therefore the Eagles would get taken apart.<br /><br />Well, in the event, Terrell Owens played the whole game (against doctor's orders) made 81 yards (which is good for a receiver I think), and the Eagles only lost by 3 points. I can't say that I'm any closer to understanding the game, though. There is a lot of stop and start, as the whole team is substituted every time they go from offence to defence and back again. Give me rugby any day - or maybe not after <a href="http://news.bbc.co.uk/sport2/hi/rugby_union/international/4233877.stm">England's performance</a> at the weekend...<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/02/superbowl-sunday.htm" title="permanent link">6:15 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/02/superbowl-sunday.htm">(1) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+    
+    <div class="Post">
+    	<a name="110784268046441625">&nbsp;</a><br />
+ <span class="PostTitle">
+  Ellen MacArthur</a>
+</span><br />
+      I saw on BBC news online today that she was about to break the record, then switched on BBC News at lunchtime (on BBC America) to see that she had finished, more than a day inside the record. And then, reading around the sites, I found <a href="http://sport.guardian.co.uk/sailing/story/0,10087,1407921,00.html">this article</a> on the Guardian's website. Briefly, it tries to unpick why the British just don't like Ellen MacArthur. First of all, I wasn't aware that we didn't - maybe she isn't as popular as David Beckham, but you could hardly claim that sailing enjoys the support or popularity of football, so that's probably only to be expected. No-one in the article seems to dispute that she excels at her chosen pursuit - that she is remarkable. So I was bemused by some comments that she 'moaned and whinged' too often. <br /><br />She has set up a website to follow the trip - presumably for some of the reasons that the BBC has been covering the trip, i.e. because people are interested, and because it makes a good day-to-day story to be able to follow what's going on. I think that the fact we have the opportunity to find out what she is up to in such an immediate way is a great benefit of technology. I don't think that because she is honest about her feelings, it diminishes her efforts. The article also seems to imply that Robin Knox-Johnston's similar effort in 1969 was more heroic, more adventurous and better in some way. The two trips were different in many ways. Robin Knox-Johnston was the first to navigate solo and non-stop, so it was a journey made just to see if it could be done. Ellen MacArthur was racing against a record that was set only last year, by someone who knocked 20 days of the previous record. What is wrong with taking advantage of the latest technologies, the fastest boat, GPS systems and sponsorship to pay for all of this?<br /><br />We seem to be very quick to dismiss achievements made with the assistance of technology, but every sportsman or woman takes advantage of the best technology available to them, whether that is in the form of running shoes, new training regimes or GPS systems. As long as that technology is legal and open to everyone, there is nothing wrong with that, and it does nothing to diminish the achievement of an individual who sets a challenging target and goes on to success.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/02/ellen-macarthur.htm" title="permanent link">5:45 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/02/ellen-macarthur.htm">(1) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Wednesday, February 02, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110736844045930313">&nbsp;</a><br />
+ <span class="PostTitle">
+  Live Aid</a>
+</span><br />
+      This has been blogged about a great deal, but I haven't done it yet, so tough luck.<br />I (like many others) got the Live Aid DVDs for Christmas this year. I've sat down this morning and started watching it all the way through, instead of the random selections I've watched up until now. The first thing you want to do is to go straight to the performances you remember (Queen, U2) and ignore the ones you had forgotten all about.<br /><br />And yes, before you ask, I do remember it - at least the parts I was allowed to stay up for (I turned 6 that year). I definitely remember thinking for years afterwards that Mick Jagger and David Bowie were an established duo after their duet of Dancing in the Streets. That one in particular looks horribly camp and dated when you see it now.<br /><br />The start of the first DVD chronicles the making of the two Christmas singles in 1984 - Feed the World and We are the World. The noticeable thing about this is how much better the US talent is!! The UK single featured the legendary likes of Duran Duran, Bananarama, Wham, Status Quo and quite a large number of 'stars' who were never heard from again. The only big names really were Bono and Paul Weller. In contrast, the Americans had Ray Charles, Lionel Ritchie, Diana Ross, Stevie Wonder, Dionne Warwick, Michael Jackson, Cyndi Lauper, Randy Newman and Bruce Springsteen, amongst a boat load of others. Where did all our big names go?<br /><br />Gems for those with the discs:<br /><b>Disc 1</b><br /><ul><br /><li>The Style Council drummer getting out from behind the drums and showing of his pasty white legs and tiny red shorts</li><br /><li>Elvis Costello and All You Need Is Love</li><br /><li>Bono being the embodiment of bad 80's fashion - blond streaks, mullet, new romantic shirt and blazer, leather trousers, high-heeled leather boots - it doesn't get much worse. See also Wil Wheaton's <a href="http://www.wilwheaton.net">great blog</a> for <a href="http://www.wilwheaton.net/mt/archives/001767.php#001767">comments on this one</a>.</li><br /></ul><br /><b>Disc 2</b><br /><ul><br /><li>Queen - Freddie Mercury drawing his energy from the entire Wembley crowd, to give a brilliant performance.</li><br /><li>We will rock you - you can see the speed of sound in the clapping from the crowd as it ripples back through the stadium.</li><br /><li>Billy Connolly: "Ladies and gentlemen, at no expense whatsoever, Elton John!" And if you look closely, I think that Kiki Dee is singing backing vocals for Elton as well.</li><br /></ul><br /><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/02/live-aid.htm" title="permanent link">6:13 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/02/live-aid.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Tuesday, February 01, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110722226169003743">&nbsp;</a><br />
+ <span class="PostTitle">
+  Movie buff</a>
+</span><br />
+      Being a lady of leisure, I thought I would make a serious attempt this year to do what I have tried a few times before, namely see all the major Oscar-nominated films before the Oscars ceremony. Usually, being in the UK poses a major obstacle, as several of the films aren't released there in time. However, being in the U.S., the qualifying criterion is that it has been on release here sometime in 2004.<br />So I have compiled the list based on those films that have an acting, directing or screenplay nomination, and it runs as follows:<br /><br />The Aviator - Howard Hughes biopic<br />Before Sunset - Ethan Hawke and Julie Delpy sequel<br />Being Julia - profile of actress starring Annette Bening<br />Closer - adaptation of Patrick Marber's play<br /><del>Collateral</del> - Assassin plus taxi driver in L.A.<br /><del>Eternal Sunshine of the Spotless Mind</del> - weird Charlie Kauffman screenplay<br /><del>Finding Neverland</del> - JM Barrie biopic and story of Peter Pan<br />Hotel Rwanda - based-on-a-true-story look at Rwandan genocide<br /><del>The Incredibles</del> - the latest Pixar animation<br />Kinsey - Alfred Kinsey biopic<br />Maria Full of Grace - drug mules from Colombia<br /><del>Million Dollar Baby</del> - boxing story<br />The Motorcycle Diaries - Che Guevara on a motorbike around Cuba<br />Ray - Ray Charles biopic<br />Sideways - vineyard comedy<br />Vera Drake - abortionist Mike Leigh drama<br /><br />I have crossed off the list those I have seen thus far. Million Dollar Baby was this afternoon - a really nice little film, with two great turns by Clint Eastwood and Morgan Freeman as a pair of grumpy old men. It was a bit disjointed in a couple of places though - I suspect that there is a longer, and possible more complete film in the director's cut.<br /><br />The only ones that I think will be tricky are those that have been and gone at the cinema but are not yet on DVD - Kinsey and Closer, as well as Vera Drake, which I haven't seen anywhere yet.<br /><br />As an aside, they showed the <a href="movies.go.com/main.html">teaser trailer</a> for the new Hitchiker's Guide movie before it started - due to be released on May 26th. Very exciting! For more information, have a look at <a href="http://www.empireonline.co.uk/site/futurefilms/News.asp?FID=9807&NID=16497&ISN=1">Empire magazine's profile</a>.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/movie-buff.htm" title="permanent link">1:24 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/movie-buff.htm">(2) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+	<br />
+	<p style="text-align:center">
+	<a href="http://www.blogger.com"><img alt="Powered by Blogger" border=0 src="http://buttons.blogger.com/bloggerbutton1.gif"></a>
+	</p>
+</div>
+<div class="layout" id="footer">Last updated 2006.</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-749380-1";
+urchinTracker();
+</script>
+</body>
+</html>

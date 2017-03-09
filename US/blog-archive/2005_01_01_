@@ -1,0 +1,321 @@
+<html><head><title>Wooden Spoon</title>
+
+<style>
+body		{font-family: verdana, helvetica, sans-serif; color: #333333; 
+			font-size: 0.8em; margin-left: auto; margin-right: auto; padding: 0;
+			border: 1px solid black; width: 800px;}
+h2,  .PostTitle	{font-size: 1.2em; font-weight: bold;}
+h3, .DateHeader	{font-size: 1em; font-weight: bold;}
+.DateHeader {display: block; color: gray; font-weight: bold; border-bottom: solid 1px gray; margin-right: 180px; margin: 1.5em 0 0 0;}
+a                    {color: #005cc2;}
+p, li			{line-height: 1.2;}
+div.toplevel {}
+div.layout	{margin: 0;}
+div#menu 	{background: white;}
+div#menu td {width: 133px; padding: 5px;}
+div#menu a	{font-weight: bold; text-align: center; text-decoration: none;
+			color: #005cc2; display: block; margin:0;}
+div#menu a:visited{}
+div#menu a:hover{color: white; background: #005cc2;}
+div#menu p.current {font-weight: bold; text-align: center; text-decoration: none;
+					color: #000066; border: 1px solid #005cc2;}
+
+div#banner	{background-image: url(http://www.usingmainlyspoons.com/Banners/leaves.jpg); width: 800px; height: 100px;}
+div#homebanner {background-image: url(http://www.usingmainlyspoons.com/Banners/hammersmith.jpg); width: 800px; 
+				height:400px;}
+div#title	{font-size: 28px; font-weight: bold; color: white; padding: 4px;}
+.PostFooter 	{margin: 0; padding: 0; line-height: 0;}
+div#rightnav {border: 1px dashed gray; float: right; width: 150px;
+				margin: 0 0.5em 1em 1em; padding: 1em; line-height: 1;}			
+div#intro	{font-weight: bold; color: #000066; margin: 1em 0 1em 3em; padding: 0; 
+			font-size: 1.3em;}
+div#content	{padding: 1em 4em 0 4em;}
+div#footer	{text-align: center; font-size: 0.8em; color: gray;}
+</style>
+<!-- Meta Information-->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta name="generator" content="Blogger" />
+        <!-- Site Feed Autodiscovery-->
+        <link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+
+        <!-- Atom API Posting Autodiscovery -->
+        <link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+
+        <!-- Blogger API Autodiscovery -->
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+<style type="text/css">
+@import url("http://www2.blogger.com/css/blog_controls.css");
+@import url("http://www2.blogger.com/dyn-css/authorization.css?blogID=6696593");
+</style>
+
+</head>
+
+<body>
+<div class="toplevel" id="top">
+	<div class="layout" class="home" id="banner">
+		<div id="title">Wooden Spoon</div>
+	</div>
+	<div class="layout" id="menu">
+		<table>
+		<tr>
+		<td><a href="http://www.usingmainlyspoons.com/index.html">home</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/about.html">about</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/london.html">london</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/travel.html">travel</a></td>
+		<td><p class="current">blog</p></td>
+		<td><a href="http://www.usingmainlyspoons.com/wedding.html">wedding</a></td>
+		</tr>
+		</table>
+	</div>
+</div>
+<div class="toplevel" id="bottom">
+	<div id="rightnav" class="home">
+       <script type="text/javascript" src="http://embed.technorati.com/embed/ifntxd4bk.js"></script>
+       <script type="text/javascript" src="http://embed.technorati.com/embed/nrpx623rcm.js"></script>
+	<h3>Links</h3>
+          <li><a href="http://www.technorati.com/faves/lou31">My Technorati</a> - favourite blogs</li>
+          <li><a href="http://del.icio.us/lrm20">My Del.icio.us</a> - bookmarked pages</li>
+          <li><a href="http://www.flickr.com/photos/louise_marston/">My Flickr</a> - online photos</li>
+	<h3>Archives</h3>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_10_01_'>October 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_11_01_'>November 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_12_01_'>December 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_01_01_'>January 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_02_01_'>February 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_04_01_'>April 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_05_01_'>May 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_06_01_'>June 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_07_01_'>July 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_08_01_'>August 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_11_01_'>November 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_01_01_'>January 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_02_01_'>February 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_03_01_'>March 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_05_01_'>May 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_06_01_'>June 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_07_01_'>July 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_09_01_'>September 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_10_01_'>October 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_11_01_'>November 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_12_01_'>December 2006</a></li>
+	 
+	<a href="" title="Atom feed"><img src="http://www.usingmainlyspoons.com/Images/xml.gif"></a>
+	<a href="" title="Atom feed">Atom syndication</a>
+	</div>	
+	<div class="layout" id="intro">Louise's musings on life and cooking - but mostly cooking.</div>
+	<div class="layout" id="content">
+	
+   	
+        <div class="DateHeader">Thursday, January 27, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110685210815813273">&nbsp;</a><br />
+ <span class="PostTitle">
+  That Underground song</a>
+</span><br />
+      I suspect that many of you have heard or been sent the link to the <a href="http://www.union.ic.ac.uk/medic/fitness/tracks/London%20Underground.mp3">Underground song</a> by now. I thought you should know that the authors and performers of this work have been revealed as a couple of doctor's from Imperial. I discovered this from the <a href="http://london-underground.blogspot.com/2005_01_01_london-underground_archive.html#110623697716817130">Going Underground blog</a>, a blog about, you guessed it, the tube. They have a whole album of songs that are being sold in aid of MacMillan Cancer Research. I heartily recommend you  have a look. Some of them are particularly good for medics or those who know them. And if you haven't heard the underground song, and have ever been through a tube strike, I suggest you proceed there forthwith (warning: it is quite rude. But funny).<br /><br /><a href="http://www.amateurtransplants.com/">Amateur Transplants</a><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/that-underground-song.htm" title="permanent link">6:49 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/that-underground-song.htm">(1) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Tuesday, January 25, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110667600955475096">&nbsp;</a><br />
+ <span class="PostTitle">
+  Dancing in the Streets</a>
+</span><br />
+      It seems to be something of a tradition in California to have someone stand on the side of the road with a large placard and/or a costume to promote your slightly-out-of-the-way store. I suppose that this has similar origins to the 'Golf Sale' people in London; i.e. it is illegal to put the sign up on the street but it is OK if someone is standing there holding it.<br /><br />There are various amusing variations on this theme. Especially popular is the dancing-while-you-hold-the-sign example. The person with the placard is often wearing headphones, and jumps around at the side of the road like a dervish - very amusing to watch. Yesterday I saw someone doing this with a sign for 'Flowers' and also someone in a silver lame space suit (complete with helmet). Presumably he was promoting a computer or electronics store? I didn't really notice as I was too distracted by the costume - effective advertising there.<br /><br />My personal favourites are the poor sods who work for <a href="http://www.quiznos.com/">Quiznos</a>. These guys don't do anything as downmarket as hold a sign - they have to wear a huge foam cup costume (complete with straw) and dance on street corners. If this isn't the job from hell, I don't know what is. Proof (if proof were needed) is the Quiznos cup we saw on University Avenue shortly after we arrived - banging his cup-head against a lamppost. One of the funniest, and most surreal, things I have seen here.<br /><br />There is more on the Quizno's cup in <a href="http://www.siliconvalley.com/mld/siliconvalley/9598374.htm">this article</a>.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/dancing-in-streets.htm" title="permanent link">5:48 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/dancing-in-streets.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Saturday, January 22, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110637343963080546">&nbsp;</a><br />
+ <span class="PostTitle">
+  The best website (nearly...)</a>
+</span><br />
+      I have just discovered the British Library's <a href="http://www.bl.uk/collections/treasures/digitisation.html">Turning the Pages</a> website, and spent a happy afternoon perusing Leonardo's notebooks, the Lindisfarne Gospels, and Blackwell's Herbal, amongst others. This is an amazing site. It allows you to turn the pages of precious books, view the illustrations and text close-up and each one is accompanied by a commentary about the book that you can view on the screen or listen to using the audio button.<br /><br />I learnt about this site by reading <a href="http://www.guardian.co.uk/online/news/0,12597,1395737,00.html">news reports</a> on Yahoo's <a href="http://uk.dir.yahoo.com/finds_of_the_year_2004/">best internet sites</a> vote, where this site unaccountably came second to <a href="http://www.weebl.jolt.co.uk/">Weebl's Stuff</a>.<br /><br /><b>This</b> is what the internet is for.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/best-website-nearly.htm" title="permanent link">5:57 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/best-website-nearly.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Wednesday, January 19, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110611892821414086">&nbsp;</a><br />
+ <span class="PostTitle">
+  California killed someone last night</a>
+</span><br />
+      California's 11th state execution happened at 12:01am today. Donald Beardslee murdered 2 girls while on parole in 1981. The San Francisco Chronicle has <a href="http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/01/19/MNGENASPGP1.DTL">an account of the case</a>. <br /><br />It was reported on last night's news as if it was a normal news item. Yes, it was at the top of the bulletin, but it was only a couple of minutes long report (including the description of his meal, which he didn't eat) and it was followed by a couple of other stories. The news presenters still had an 'and finally' story at the end (in this case, the new Airbus) and they still had a little joke over the weather report. <br /><br />11 executions puts California 18th on the list of states by number of executions since 1976. 38 of the 50 states allow executions, and 6 of those have not actually executed anyone since 1976. Although California is a fair way down the list on executions, it has the largest number of people on Death Row of all the states, at 639. So, juries are happy to condemn people, but at least the state is fairly cautious about executing them. In contrast, Texas, with a population around two-thirds of California's, has executed 337 people since 1976 and has 447 people currently on death row.<br /><br /><a href="http://www.amnestyusa.org/abolish/index.do">Amnesty International</a><br /><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/california-killed-someone-last-night.htm" title="permanent link">7:02 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/california-killed-someone-last-night.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+    
+    <div class="Post">
+    	<a name="110611538884414193">&nbsp;</a><br />
+ <span class="PostTitle">
+  American TV is melting my brain</a>
+</span><br />
+      We all know that American TV is bad. It is just one of those universally-acknowledged truths. But it is soooooo bad.<br /><br />Firstly, there are the ad breaks. We have an ad break after the credits, 3 or so ad breaks during the program and then another ad break before the final credits. And that is for a half-hour program. I watched the Golden Globes the other night and there were only 2 awards, plus some shots of people schmoozing, between each ad break.<br /><br />And then there are the ads - which are excrutiatingly bad. In advertising sophistication, as in electrical standards and weights and measures, the Americans are lagging behind the rest of the world. Every now and then you spot one which you hope is going to be ironic. And then you realise it isn't, and you sink back into depression.<br /><br />The way I have avoided being sent insane (until now) by this is using our Tivo, which is nothing more or less than a hard disk video recorder. So I wind through the ads and never need to look at them. It has actually become worth delaying watching a program by ten minutes, because then the program on the Tivo is behind the broadcast, and you can wind forward through the ads while you are watching. The sad side effect is that when you end up watching something live for a change, you realise that you're brain is melting. Like now.<br /><br /><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/american-tv-is-melting-my-brain.htm" title="permanent link">6:05 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/american-tv-is-melting-my-brain.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Monday, January 17, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110592711607227663">&nbsp;</a><br />
+ <span class="PostTitle">
+  Only...24 hours from Tahoe</a>
+</span><br />
+      Lets make that more like 7.<br /><br />We have just returned from an... interesting weekend in Tahoe. Having been frustrated with our plans to go up last weekend by the bad weather, we  were pretty determined to try and get some skiing in this weekend. This was somewhat challenging, as this weekend is 3-day holiday weekend (Martin Luther King day is Monday), so most of the hotels were booked up. Nevertheless, we found a nice little cabin for rent on Friday and booked it right away. Nathan managed to get away from work at lunchtime on Friday and so we set off with plenty of time. The weather was lovely on Friday - warm and clear - and we got a fair way up the bay with only some stop-start traffic. Then it all slowed down for a while, and we crawled more or less from Berkeley to Sacramento, taking around 3 hours. After that it sped up again, and having left San Jose at about 2pm, we were at our cabin, in the snow, by 9pm.<br />And then we started feeling bad.<br />I had a headache, N started shivering so badly that he nearly shook all three covers and blankets off the bed. This was not good.<br />Saturday morning was blue skies, sunny and crisp. We, however, were not crisp. We were very soggy. We couldn't even get ourselves up until lunchtime. Once we'd dragged ourselves out of bed, we took a little drive up to Heavenly, just about 3 miles from the cabin. The snow looked perfect, but neither of us were in any condition to ski. N was at least optimistic though. After lunch, we went and hired him boots and skis so that he could get on the slopes on Sunday, when he felt better. And then we went to the supermarket to buy drugs (don't worry, nothing stronger than paracetamol) and went home again. There was some comepensation for this wasted day in the form of a private hot tub at the cabin. I definitely recommend a hot tub in the open air, in the snow as a cold remedy.<br />So Sunday morning, we were going to feel much better, and get some skiing in. But no. We still felt bad, if not worse. Weeping into our tissues, we returned the skis, unused, checked out and drove home.<br />So that is the tragic story of our weekend - 12 hours of driving, quite a lot of money on a cabin with a hot tub, thirty-odd dollars in ski hire (at least we didn't buy ski passes in advance). And no skiing. Not a sausage.<br /><br />It' soooooo sad!<br /><br />Tags: <a href="http://technorati.com/tag/tahoe" rel="tag">Tahoe</a> | <a href="http://technorati.com/tag/Skiing" rel="tag">Skiing</a> | <a href="http://technorati.com/tag/illness" rel="tag">Illness</a><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/only24-hours-from-tahoe.htm" title="permanent link">5:57 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/only24-hours-from-tahoe.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Friday, January 14, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110568742748013699">&nbsp;</a><br />
+ <span class="PostTitle">
+  New Year: Get fit</a>
+</span><br />
+      I embarked today on the traditional new year activity of going to join a gym. Of course, what I actually did was get a tour of a <a href="http://ww.24hourfitness.com">gym</a>, nod and smile at the instructor showing me around, hum and hah at the prices, and say I'd have to think about it :)<br /><br />Still, it did spur me on to do some free activity, i.e. going for a jog, for the first time in ages. Obviously, it was rather more painful than it should have been, but that's to be expected after the, ahem, break I've had. The important thing is that I started, and that I got to wear my nice new <a href="http://niketown.nike.com/niketown/catalog/pdp.jsp?productId=46534&categoryId=53064&productGroup=71948">Nike gear</a> that I purchased this week to spur me on. I wonder how many runs I would justify the purchase of an <a href="http://www.apple.com/ipodshuffle/">iPod shuffle</a>? In preparation, I have prepared a playlist to be transferred as soon as I get one, which I am using on my regular old iPod in the meantime. It's much more motivational to have music than to listen to the sound of your own wheezing while you're running.<br /><br />So, without further ado, the workout plan continues with <a href="http://www.skiheavenly.com">skiing</a> (at last) this weekend. Watch this space...<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/new-year-get-fit.htm" title="permanent link">7:15 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/new-year-get-fit.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Thursday, January 13, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110558776035846490">&nbsp;</a><br />
+ <span class="PostTitle">
+  Word of the day: Cool</a>
+</span><br />
+      Today I went to visit that temple of geekdom that is <a href="http://www.macworld.com/news/2005/01/11/keynote/index.php">Macworld</a> in San Francisco. It certainly attracts an interesting cross-section of people; kids with their friends or parents, suited business people, die-hard Mac fanatics - the last easily spotted as they will probably be wearing an XL mac t-shirt, faded through repeated washing.<br /><br />There was also a pretty interesting cross-section of products there, reflecting the huge diversity of activities undertaken by a group of people united only by a hardware manufacturer. Something that helped it stand out from most trade shows and other exhibitions was the large number of live demonstrations of software and hardware going on. There was also a common feature to these presentations - "Isn't that cool?" or	"This is so cool". This phrase was used by presenters all over the place, but also people in the audience at the presentations, and people around the exhibition hall. Of course this might have more to do with being in California than anything else! <br /><br />In between presentations on the Apple stage, they were running a variety of their very cool <a href="http://www.apple.com/ipod/ads/">iPod TV ads</a>. I found the contrast between the excellent dancing in these ads and the likely dancing skills of most of the audience quite amusing. <br /><br />Highlights of MacWorld:<br /><br /><a href="http://consumer.usa.canon.com/ir/controller?act=ModelDetailAct&fcategoryid=145&modelid=10596">Tiny 5MP cameras</a> from Canon. The remarkable thing about these is not their size as much as the combination of tiny size and 5 megapixel sensor. Of course it compromises by having a small lens and no optical zoom, but still looks very neat.<br /><br /><a href="http://www.apple.com/macmini/">Mac mini</a> - it's so much smaller than just about any other desktop I've seen. Best advice for people thinking of switching to this from their PC is to wait 4 or 5 months until the next version of the operating system is released (<a href="http://www.apple.com/macosx/">Mac OS X</a> 10.4 or tiger) so that it will come bundled with the box.<br /><br /><a href="http://www.apple.com/ipodshuffle/">iPod shuffle</a> - so small and light, with an incredibly unMac-like price - barely more than the cost of a similar-sized <a href="http://cnet.search.com/search?q=usb+flash&nodeid=3233&format=customlayout&channel=2&cat=313&mode=products&allfields=0&k=61246579">USB storage device</a>, which it will do as well.<br /><br /><a href="http://www.apple.com/iwork/pages/">Pages</a> - Part of the new iWork suite, this looks like it is going to be a useful word processor, combined with desktop-publishing features, which is something that MS Word is really not designed to do.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/word-of-day-cool.htm" title="permanent link">3:25 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/word-of-day-cool.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Tuesday, January 11, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110541966364696297">&nbsp;</a><br />
+ <span class="PostTitle">
+  Apple Mania</a>
+</span><br />
+      Today I thought I would give you a preview of MacExpo which is on this week in San Francisco. This annual gathering of geekdom gets a lot of attention, partly because it is the event where many new Apple products are announced, and partly because Steve Jobs gives the keynote speech, allowing those who are so inclined to indulge in some hero-worship. For these reasons, there will be plenty of coverage on websites and in the papers of the goings on at the Moscone Center in the coming week. So to prepare you for the excitement, I thought I would give a little tour of the best places to look for Apple-related information (for all you techies - you know who you are). I am also going to visit myself later in the week, so look out for a report from the trenches too.<br /><br />A good summary site that doesn't indulge in too much hype is the Guardian's <a href="http://blogs.guardian.co.uk/online/">onlineblog</a>. They have a reporter attending the conference, and give a nice summary of rumours and other information.<br /><br />To get the full Apple experience, go to <a href="http://www.apple.com">Apple's site</a> to watch Steve Job's keynote speech. Unlike previous years, this one is not being broadcast live, but will be available as a Quicktime file from 6pm PST on Tuesday (or 2am GMT Wednesday). Apple will also have the latest new product information on their site soon after the speech - or at least they have in the past.<br /><br />For those with a more serious Mac obsession, <a href="http://www.macrumors.com/">macrumours</a> carries all sorts of gossip and guesses about what will happen next, and <a href="http://wiredblogs.tripod.com/cultofmac/">The Cult of Mac</a> is a good blog on the <a href="http://www.wired.com">Wired Magazine</a> site.<br /><br />So what are we likely to see? Well, attempting to synthesise the most popular rumours, rather than create any new ones, we are looking at a small flash-based iPod, around 1GB in capacity, an Apple-Motorola phone collaboration, a possible Apple media server and a possible business software suite to rival Microsoft Office. Of course, this is all just fevered speculation at this point, so watch this space...<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/apple-mania.htm" title="permanent link">4:47 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/apple-mania.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Sunday, January 09, 2005</div>
+    
+    
+    <div class="Post">
+    	<a name="110531544465911523">&nbsp;</a><br />
+ <span class="PostTitle">
+  Catching up</a>
+</span><br />
+      Hi again. Long time no blog. We were away over Christmas, but I know that's no excuse, as the laptops and the network went with us. So here is a catch-up summary of the last month in an attempt to get back on track. I promise to try harder in 2005.<br /><br />The week before Christmas included all the predictable Christmas shopping things. As we were too disorganised to send Christmas cards by post in time, e-cards went out, along with a <a href="http://www.oxfamunwrapped.com">donation to Oxfam</a> in the form of 2 broods of chickens.<br /><br />My Christmas present this year was a <a href="http://www.apple.com/powerbook/index12.html">new laptop</a> to replace my dead iBook. N then took it upon himself to dismantle and fix the iBook (not a pretty sight) which is now back in action. N received (amongst other things) an X-box, which is playing Halo on as I type.<br /><br />Christmas and the New Year were spent on <a href="http://www.vancouverisland.com/">Vancouver Island</a> with my cousin Nicky, my Mum and Dad, my sister and my aunt and other cousins. It was a pretty full house most of the time, so pretty hectic. We had planned to <a href="http://www.mtwashington.bc.ca/winter05/">go skiing</a> in the week between Christmas and New Year, but our luck being what it is, there was no snow. As compensation, we booked a hotel in downtown Vancouver and took the ferry across there for a couple of nights instead. Vancouver is a great city, and despite the rain and cold weather, we had a good time. Of course, we still didn't get any skiing in.<br /><br />Having returned home on the 1st Jan, and N having discovered that there was at least 2 feet of powder available at <a href="http://www.skialpine.com">Lake Tahoe</a>, plans were put in place to drive to Tahoe for skiing this weekend. However, once again, the weather was against us. A <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/news/archive/2005/01/09/national1113EST0454.DTL">big 'storm'</a> (bit of low pressure) has been hanging around all weekend, and brought pretty much non-stop snow in the mountains, bringing down around 5 feet of fresh snow. This is great for skiing this week, but there was basically no visibility all weekend, so it wouldn't have been worth the drive. <br /><br />This coming weekend is a holiday weekend, so we will try and go skiing, but it is likely to be very busy. It is Martin Luther King day on Monday, which seems as good an excuse as any for a day off. Not that I have a job...<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2005/01/catching-up.htm" title="permanent link">11:46 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2005/01/catching-up.htm">(1) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+	<br />
+	<p style="text-align:center">
+	<a href="http://www.blogger.com"><img alt="Powered by Blogger" border=0 src="http://buttons.blogger.com/bloggerbutton1.gif"></a>
+	</p>
+</div>
+<div class="layout" id="footer">Last updated 2006.</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-749380-1";
+urchinTracker();
+</script>
+</body>
+</html>

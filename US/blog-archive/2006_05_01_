@@ -1,0 +1,219 @@
+<html><head><title>Wooden Spoon</title>
+
+<style>
+body		{font-family: verdana, helvetica, sans-serif; color: #333333; 
+			font-size: 0.8em; margin-left: auto; margin-right: auto; padding: 0;
+			border: 1px solid black; width: 800px;}
+h2,  .PostTitle	{font-size: 1.2em; font-weight: bold;}
+h3, .DateHeader	{font-size: 1em; font-weight: bold;}
+.DateHeader {display: block; color: gray; font-weight: bold; border-bottom: solid 1px gray; margin-right: 180px; margin: 1.5em 0 0 0;}
+a                    {color: #005cc2;}
+p, li			{line-height: 1.2;}
+div.toplevel {}
+div.layout	{margin: 0;}
+div#menu 	{background: white;}
+div#menu td {width: 133px; padding: 5px;}
+div#menu a	{font-weight: bold; text-align: center; text-decoration: none;
+			color: #005cc2; display: block; margin:0;}
+div#menu a:visited{}
+div#menu a:hover{color: white; background: #005cc2;}
+div#menu p.current {font-weight: bold; text-align: center; text-decoration: none;
+					color: #000066; border: 1px solid #005cc2;}
+
+div#banner	{background-image: url(http://www.usingmainlyspoons.com/Banners/leaves.jpg); width: 800px; height: 100px;}
+div#homebanner {background-image: url(http://www.usingmainlyspoons.com/Banners/hammersmith.jpg); width: 800px; 
+				height:400px;}
+div#title	{font-size: 28px; font-weight: bold; color: white; padding: 4px;}
+.PostFooter 	{margin: 0; padding: 0; line-height: 0;}
+div#rightnav {border: 1px dashed gray; float: right; width: 150px;
+				margin: 0 0.5em 1em 1em; padding: 1em; line-height: 1;}			
+div#intro	{font-weight: bold; color: #000066; margin: 1em 0 1em 3em; padding: 0; 
+			font-size: 1.3em;}
+div#content	{padding: 1em 4em 0 4em;}
+div#footer	{text-align: center; font-size: 0.8em; color: gray;}
+</style>
+<!-- Meta Information-->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta name="generator" content="Blogger" />
+        <!-- Site Feed Autodiscovery-->
+        <link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+
+        <!-- Atom API Posting Autodiscovery -->
+        <link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+
+        <!-- Blogger API Autodiscovery -->
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+<style type="text/css">
+@import url("http://www2.blogger.com/css/blog_controls.css");
+@import url("http://www2.blogger.com/dyn-css/authorization.css?blogID=6696593");
+</style>
+
+</head>
+
+<body>
+<div class="toplevel" id="top">
+	<div class="layout" class="home" id="banner">
+		<div id="title">Wooden Spoon</div>
+	</div>
+	<div class="layout" id="menu">
+		<table>
+		<tr>
+		<td><a href="http://www.usingmainlyspoons.com/index.html">home</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/about.html">about</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/london.html">london</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/travel.html">travel</a></td>
+		<td><p class="current">blog</p></td>
+		<td><a href="http://www.usingmainlyspoons.com/wedding.html">wedding</a></td>
+		</tr>
+		</table>
+	</div>
+</div>
+<div class="toplevel" id="bottom">
+	<div id="rightnav" class="home">
+       <script type="text/javascript" src="http://embed.technorati.com/embed/ifntxd4bk.js"></script>
+       <script type="text/javascript" src="http://embed.technorati.com/embed/nrpx623rcm.js"></script>
+	<h3>Links</h3>
+          <li><a href="http://www.technorati.com/faves/lou31">My Technorati</a> - favourite blogs</li>
+          <li><a href="http://del.icio.us/lrm20">My Del.icio.us</a> - bookmarked pages</li>
+          <li><a href="http://www.flickr.com/photos/louise_marston/">My Flickr</a> - online photos</li>
+	<h3>Archives</h3>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_10_01_'>October 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_11_01_'>November 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_12_01_'>December 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_01_01_'>January 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_02_01_'>February 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_04_01_'>April 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_05_01_'>May 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_06_01_'>June 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_07_01_'>July 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_08_01_'>August 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_11_01_'>November 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_01_01_'>January 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_02_01_'>February 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_03_01_'>March 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_05_01_'>May 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_06_01_'>June 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_07_01_'>July 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_09_01_'>September 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_10_01_'>October 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_11_01_'>November 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_12_01_'>December 2006</a></li>
+	 
+	<a href="" title="Atom feed"><img src="http://www.usingmainlyspoons.com/Images/xml.gif"></a>
+	<a href="" title="Atom feed">Atom syndication</a>
+	</div>	
+	<div class="layout" id="intro">Louise's musings on life and cooking - but mostly cooking.</div>
+	<div class="layout" id="content">
+	
+   	
+        <div class="DateHeader">Thursday, May 18, 2006</div>
+    
+    
+    <div class="Post">
+    	<a name="114796364494262089">&nbsp;</a><br />
+ <span class="PostTitle">
+  Sport Relief</a>
+</span><br />
+      If you're in the UK, you can't have missed the Sport Relief publicity in the last few weeks. Being somewhat off the wagon, fitness-wise, we nevertheless decided that we could probably manage to run/walk/wheeze for a mile, so have signed up for the the <a href="http://www.sportrelief.com/local-events/">Sport Relief Mile</a> on July 15th.<br /><br />Sport Relief is part of the long-running charity <a href="http://www.comicrelief.com/">Comic Relief</a> and aims to help people in the poorest countries in the world as well as vulnerable people in the UK.<br /><br />For this gargantuan effort of making it to the end of a 1609 metre course, we are asking for sponsorship. Please visit <a href="https://secure.artezglobal.com/registrant/StartUp.aspx?SID=21477">my sponsorship page</a> to donate. Alternatively, you could provide helpful suggestions for costumes or other themes in the comments - no promises though!<br /><!-- technorati tags start --><p style="text-align:right;font-size:10px;">Technorati Tags: <a href="http://www.technorati.com/tag/sport relief" rel="tag">sport relief</a></p><!-- technorati tags end --><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/05/sport-relief.html" title="permanent link">2:44 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/05/sport-relief.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Monday, May 15, 2006</div>
+    
+    
+    <div class="Post">
+    	<a name="114776892178549748">&nbsp;</a><br />
+ <span class="PostTitle">
+  Ask Nigel (the science bit)</a>
+</span><br />
+      One of the pleasures of the Sunday papers for me us <a href="http://lifeandhealth.guardian.co.uk/experts/nigelslater/">Nigel Slater's column</a> in the <a href="http://observer.guardian.co.uk/">Observer</a>. The Internet allows me to create my own personal 'best of' Sunday paper, and not to have to get out of bed to read it (provided my laptop is in reach).<br /><br />One of the things that they have added in the past year is a questions and answers section, where Nigel kindly answers reader's queries. While I find his answers interesting, they are not sufficiently scientific for my liking, so I thought I would have a go and providing some alternative answers to the same questions. <a href="http://observer.guardian.co.uk/magazine/story/0,,1773835,00.html">Here are Nigel's original answers</a>.<br /><br /><strong>Q Nigel, for flavour and nutrition, is it better to crush or chop cloves of garlic? Many thanks.<br /></strong>For flavour, the more you disrupt the garlic cells, the more of their flavour you release. So for a subtle flavour, slice it thinly, for more oomph, chop finely (my personal choice) and for maximum flavour, or where you need something smooth (e.g. to add to mayonnaise for aioli) crush it with salt using the side of a knife. For nutritional purposes, unless you're using bulbs and bulbs, whatever you do with the garlic is unlikely to affect the nutrition of the dish one way or another.<br /><strong><br />Q Is there a way to stop yogurt curdling and turning grainy when added to curry?<br /></strong>Yoghurt will curdle because the milk proteins denature - yoghurt is high in protein, and when heated too much, the protein molecules tangle with each other and form lumpy curds. This doesn't happen with cream, because there is too much fat in the way, so using a full-fat or greek yoghurt will help. You can also stabilise the yoghurt by adding something else to interfere with coagulation - starch. Mixing a little yoghurt with some cornflour (say 1 tsp for a 4 person curry) will thicken the yoghurt slightly and provide stability. Finally, make sure you add the yoghurt at the end. Cook the curry all the way, turn off the heat and just stir through the yoghurt. It's getting the yoghurt too hot that causes the curdling in the first place.<br /><br /><!-- technorati tags start --><p style="text-align:right;font-size:10px;">Technorati Tags: <a href="http://www.technorati.com/tag/cooking" rel="tag">cooking</a>, <a href="http://www.technorati.com/tag/food" rel="tag">food</a>, <a href="http://www.technorati.com/tag/yoghurt" rel="tag">yoghurt</a>, <a href="http://www.technorati.com/tag/science" rel="tag">science</a></p><!-- technorati tags end --><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/05/ask-nigel-science-bit.html" title="permanent link">9:54 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/05/ask-nigel-science-bit.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+    
+    <div class="Post">
+    	<a name="114772492187376534">&nbsp;</a><br />
+ <span class="PostTitle">
+  Turkish Delights</a>
+</span><br />
+      <div><a href="http://www.flickr.com/photos/louise_marston/146796525/" title="photo sharing"><img alt="bazaar" src="http://static.flickr.com/45/146796525_c3d606660c_m.jpg" style="border: solid 2px #000000;"/></a><a href="http://www.flickr.com/photos/louise_marston/146796525/" title="photo sharing"><br /></a><br /><a href="http://www.flickr.com/photos/louise_marston/146796525/">Stall at Spice Bazaar</a> <br />Originally uploaded by <a href="http://www.flickr.com/people/louise_marston/">louise_marston</a>.</div>I have just come back from a long weekend in Istanbul. Everyone told me before we went that it was an incredible city, and I wasn't disappointed. We heard the muezzins calling people to prayer at lunchtime while overlooking the Suleyman Mosque. We cruised along the Bosphorus and had a special performance from one of Turkey's foremost belly dancers (apparently - I mean, how would we know?!). We watched the red moon rise over the city from a restaurant in the hills. We saw the inside of the Haghia Sophia, a sight so awe-inspiring that it caused both a Roman Emperor (Justinian) and an Ottoman Sultan to prostrate themselves and thank their respective Gods the first time they saw it.<br /><br />I also (inevitably) visited the Spice Bazaar in the Old Town, where Istanbullus still come to buy their supplies for the week. I looked around at the spice stalls, shops selling fresh feta and other cheeses, stalls with Turkish Delight, ropes made of dates, baklava and all types of nuts and dried fruit. I settled for buying some spices and pomegranate molasses from a kind looking man in one of the hidden-away spice stalls. He was quite bemused that I would want the molasses - not something he sees many Europeans buying, I suspect. I also bought some Turkish coffee from Mehmet Effendi's stall - freshly roast and ground that morning. It smelled too good not to.<br /><br /><strong>Sumac</strong><br />This is a dark red berry that is coarsely ground and used in Turkish cooking. It has a sour, lemony taste and is often sprinkled on meat (such as kebabs) or fish just before serving.<br /><br /><strong>Pomegranate Molasses</strong><br />This is a dark, syrupy liquid made by boiling down the juice from the sour pomegranate (rather than the sweet pomegranate whcih is usually used for juice). It is sour, as you might expect, but also has a slight sweetness which makes for a very interesting flavour.<br /><br />I used my brand-new pomegranate molasses to make one of Claudia Roden's recipes (which also appears in her new book, Arabesque), Muhammara, a walnut and pomegranate paste.<br /><br /><div><a href="http://www.flickr.com/photos/louise_marston/147530088/" title="photo sharing"><img alt="muhammara" src="http://static.flickr.com/45/147530088_c3d606660c_m.jpg" style="border: solid 2px #000000;"/></a><a href="http://www.flickr.com/photos/louise_marston/147530088/" title="photo sharing"><br /></a><br /><a href="http://www.flickr.com/photos/louise_marston/147530088/">Muhammara</a> <br />Originally uploaded by <a href="http://www.flickr.com/people/louise_marston/">louise_marston</a>.</div><br /><br /><strong>Muhammara</strong><br />100g walnut pieces<br />2 small slices of white bread, stale<br />1 tbsp pomegranate molasses<br />1/2 tsp ground cumin<br />1/4 tsp chilli flake<br />3 tbsp olive oil<br />4 tbsp water<br /><br />Soak the bread briefly in water and then squeeze it out. Grind the walnuts in the food processor, then add the rest of the ingredients and puree, adding a little more water if it's too stiff.<br /><br />This was much tastier than I had anticipated - bitter from the walnuts and pomegranate but with a little sweetness from the molasses. Next time I would add a little more chilli (Claudia also suggests stirring in some harissa), and maybe toasting the walnuts and cumin to bring out their flavours more.<br /><br /><!-- technorati tags start --><p style="text-align:right;font-size:10px;">Technorati Tags: <a href="http://www.technorati.com/tag/cooking" rel="tag">cooking</a>, <a href="http://www.technorati.com/tag/food" rel="tag">food</a>, <a href="http://www.technorati.com/tag/Istanbul" rel="tag">Istanbul</a>, <a href="http://www.technorati.com/tag/turkish" rel="tag">turkish</a></p><!-- technorati tags end --><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/05/turkish-delights.html" title="permanent link">8:26 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/05/turkish-delights.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Wednesday, May 10, 2006</div>
+    
+    
+    <div class="Post">
+    	<a name="114727690639503483">&nbsp;</a><br />
+ <span class="PostTitle">
+  Holidays</a>
+</span><br />
+      Have been on holiday recently (although that is obviously not sufficient excuse for the absence from this blog :). I'm off again to Turkey tomorrow, but expect more when I get back. Brief summary of the holiday:<br /><br />Geneva - staying with friends<br />Highlight - a long, *long* walk with beautiful views of <a href="http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=geneva&amp;ll=46.271512,6.228561&amp;spn=0.220232,0.466232&amp;t=k&amp;om=1">Lake Geneva</a>, seeing <a href="http://www.ultimateungulate.com/Artiodactyla/Rupicapra_rupicapra.html">Chamois</a> goats on the mountain and wildflowers everywhere.<br /><br /><a href="http://www.bbc.co.uk/cornwall/webcams/webcam_bude.shtml">Bude, Cornwall</a> - self-catering<br />Highlights: a bit of bodyboarding, excellent fish and chips and clotted cream, and I finally finished '<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0826452094/qid=1147276329/sr=8-2/ref=sr_8_xs_ap_i2_xgl/202-0615788-1901428">Seven Basic Plots</a>'.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/05/holidays.html" title="permanent link">3:59 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/05/holidays.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+	<br />
+	<p style="text-align:center">
+	<a href="http://www.blogger.com"><img alt="Powered by Blogger" border=0 src="http://buttons.blogger.com/bloggerbutton1.gif"></a>
+	</p>
+</div>
+<div class="layout" id="footer">Last updated 2006.</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-749380-1";
+urchinTracker();
+</script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+body		{font-family: verdana, helvetica, sans-serif; color: #333333; 
+			font-size: 0.8em; margin-left: auto; margin-right: auto; padding: 0;
+			border: 1px solid black; width: 800px;}
+h2 			{font-size: 1.2em;}
+h3			{font-size: 1em; font-weight: bold;}
+p			{line-height: 1.5;}
+a			{color: #005cc2;}
+li			{line-height: 1.2;}
+div.toplevel {}
+div.layout	{margin: 0;}
+#menu 	{background: white;}
+		#menu td {width: 105px; padding: 4px;}
+		#menu a	{font-weight: bold; text-align: center; text-decoration: none;
+			color: #005cc2; display: block; margin:0;}
+		#menu a:visited{}
+		#menu a:hover{color: white; background: #005cc2;}
+		#menu p.current {font-weight: bold; text-align: center; text-decoration: none;
+					color: #000066; border: 1px solid #005cc2;}
+
+#banner		{background-image: url(/Banners/magnolia.jpg); width: 800px; height: 100px;}
+#homebanner {background-image: url(/Banners/hammersmith.jpg); width: 800px; height:400px;}
+#title		{font-size: 28px; font-weight: bold; color: white; padding: 4px;}
+#bottom 	{}
+#rightnav 	{border: 1px dashed gray; float: right; width: 180px;
+				margin: 0 1em 1em 1em; padding: 0 1em 1em 1em; line-height: 1;}			
+#intro		{margin: 1em 0 0 3em; padding: 0;}
+			#intro h1 {font-weight: bold; color: #000066; font-size: 1.4em;}
+			#intro p {font-weight: normal; color: #333366; font-size: 1.1em; line-height: 1.2;}
+#content	{padding: 1em 4em 0 4em;}
+#footer		{text-align: center; font-size: 0.8em; color: gray;}
+
+.title		{margin-left: 2em; font-weight: bold; font-size: 1.2em;}
+.author		{margin-left: 2em; font-style: italic;}
+.topic		{margin-left: 3em; font-weight: bold;}
+.recipe		{margin-left: 4em; line-height: 0.5;}

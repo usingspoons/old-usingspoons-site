@@ -1,0 +1,353 @@
+<html><head><title>Wooden Spoon</title>
+
+<style>
+body		{font-family: verdana, helvetica, sans-serif; color: #333333; 
+			font-size: 0.8em; margin-left: auto; margin-right: auto; padding: 0;
+			border: 1px solid black; width: 800px;}
+h2,  .PostTitle	{font-size: 1.2em; font-weight: bold;}
+h3, .DateHeader	{font-size: 1em; font-weight: bold;}
+.DateHeader {display: block; color: gray; font-weight: bold; border-bottom: solid 1px gray; margin-right: 180px; margin: 1.5em 0 0 0;}
+a                    {color: #005cc2;}
+p, li			{line-height: 1.2;}
+div.toplevel {}
+div.layout	{margin: 0;}
+div#menu 	{background: white;}
+div#menu td {width: 133px; padding: 5px;}
+div#menu a	{font-weight: bold; text-align: center; text-decoration: none;
+			color: #005cc2; display: block; margin:0;}
+div#menu a:visited{}
+div#menu a:hover{color: white; background: #005cc2;}
+div#menu p.current {font-weight: bold; text-align: center; text-decoration: none;
+					color: #000066; border: 1px solid #005cc2;}
+
+div#banner	{background-image: url(http://www.usingmainlyspoons.com/Banners/leaves.jpg); width: 800px; height: 100px;}
+div#homebanner {background-image: url(http://www.usingmainlyspoons.com/Banners/hammersmith.jpg); width: 800px; 
+				height:400px;}
+div#title	{font-size: 28px; font-weight: bold; color: white; padding: 4px;}
+.PostFooter 	{margin: 0; padding: 0; line-height: 0;}
+div#rightnav {border: 1px dashed gray; float: right; width: 150px;
+				margin: 0 0.5em 1em 1em; padding: 1em; line-height: 1;}			
+div#intro	{font-weight: bold; color: #000066; margin: 1em 0 1em 3em; padding: 0; 
+			font-size: 1.3em;}
+div#content	{padding: 1em 4em 0 4em;}
+div#footer	{text-align: center; font-size: 0.8em; color: gray;}
+</style>
+<!-- Meta Information-->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta name="generator" content="Blogger" />
+        <!-- Site Feed Autodiscovery-->
+        <link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+
+        <!-- Atom API Posting Autodiscovery -->
+        <link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+
+        <!-- Blogger API Autodiscovery -->
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+<style type="text/css">
+@import url("http://www2.blogger.com/css/blog_controls.css");
+@import url("http://www2.blogger.com/dyn-css/authorization.css?blogID=6696593");
+</style>
+
+</head>
+
+<body>
+<div class="toplevel" id="top">
+	<div class="layout" class="home" id="banner">
+		<div id="title">Wooden Spoon</div>
+	</div>
+	<div class="layout" id="menu">
+		<table>
+		<tr>
+		<td><a href="http://www.usingmainlyspoons.com/index.html">home</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/about.html">about</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/london.html">london</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/travel.html">travel</a></td>
+		<td><p class="current">blog</p></td>
+		<td><a href="http://www.usingmainlyspoons.com/wedding.html">wedding</a></td>
+		</tr>
+		</table>
+	</div>
+</div>
+<div class="toplevel" id="bottom">
+	<div id="rightnav" class="home">
+       <script type="text/javascript" src="http://embed.technorati.com/embed/ifntxd4bk.js"></script>
+       <script type="text/javascript" src="http://embed.technorati.com/embed/nrpx623rcm.js"></script>
+	<h3>Links</h3>
+          <li><a href="http://www.technorati.com/faves/lou31">My Technorati</a> - favourite blogs</li>
+          <li><a href="http://del.icio.us/lrm20">My Del.icio.us</a> - bookmarked pages</li>
+          <li><a href="http://www.flickr.com/photos/louise_marston/">My Flickr</a> - online photos</li>
+	<h3>Archives</h3>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_10_01_'>October 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_11_01_'>November 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_12_01_'>December 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_01_01_'>January 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_02_01_'>February 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_04_01_'>April 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_05_01_'>May 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_06_01_'>June 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_07_01_'>July 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_08_01_'>August 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_11_01_'>November 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_01_01_'>January 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_02_01_'>February 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_03_01_'>March 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_05_01_'>May 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_06_01_'>June 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_07_01_'>July 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_09_01_'>September 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_10_01_'>October 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_11_01_'>November 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_12_01_'>December 2006</a></li>
+	 
+	<a href="" title="Atom feed"><img src="http://www.usingmainlyspoons.com/Images/xml.gif"></a>
+	<a href="" title="Atom feed">Atom syndication</a>
+	</div>	
+	<div class="layout" id="intro">Louise's musings on life and cooking - but mostly cooking.</div>
+	<div class="layout" id="content">
+	
+   	
+        <div class="DateHeader">Friday, November 26, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="110144865152659911">&nbsp;</a><br />
+ <span class="PostTitle">
+  Thanksgiving</a>
+</span><br />
+      Today is Thanksgiving in the U.S., an excuse to eat a huge amount and do a lot of shopping, with no messy religious messages to clutter up the proceedings. In this spirit, we decided to mark the occasion by de-boning a chicken (we didn't feel that we could eat a turkey between us) and stuffing it for dinner.<br /><br />This is partly in honour of N's family's Christmas ritual, which is to de-bone the  turkey and stuff it before roasting. So N took on the role of surgeon and bravely attacked the chicken. He rather impressively de-boned the entire thing, including legs and wings, and we then stuffed it with a sausagemeat, apricot and pistachio stuffing.<br /><br />About an hour and a half later (it wasn't a very big chicken) we sat down to the chicken, roast potatoes, sweetcorn, sprouts, gravy and cranberry sauce. And very good it was too.<br /><br />Photos of this escapade can be found on our <a href="http://spoons.fotopic.net/c351648.html">photos page</a>.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/thanksgiving.htm" title="permanent link">5:50 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/thanksgiving.htm">(2) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Wednesday, November 24, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="110127703542439688">&nbsp;</a><br />
+ <span class="PostTitle">
+  Unreal words</a>
+</span><br />
+      Firstly, apologies for the lack of posting in a little while. I have, however, added to the main site with <a href="http://www.usingmainlyspoons.com/US/bookings.htm">a page</a> to help you in planning your San Francisco trips - so no excuses!<br /><br />Today's subject has been inspired by a <a href="http://www.sprint.com/">Sprint</a> ad currently running on television, Sprint being a mobile phone company. This advertisement proudly boasts that Sprint has "got rid of ugle overages". Excuse me? What was that? <i>Overages?</i> Since when is that a word for anything?! From the context of the ad, it is clear that what they mean by this is the tariff imposed on calls once the monthly minutes allowance has been exceeded (and is therefore usually quite steep). This seems a perfectly reasonable concept to require a word, so I have no particular objection to a word being added to the language. But it's such an ugly word. It sounds like sludge. And midges. Maybe that's appropriate if Spring considers them ugly, but couldn't they have mined the appoximately 600,000 words in the English language to come up with something better?<br /><br />Another example of this American tendency to make up horrible words is the verb 'de-train', as heard on CalTrain thus: <br /><blockquote>"Now arriving Millbrae. Those requiring San Francisco International Airport should de-train here."</blockquote><br />Presumably, this has evolved from de-plane (which is also a horrible word). But why not use some perfectly serviceable words, such as depart, leave, exit or descend? <br /><br />It's bad enough that Americans insist on misusing the language (jam, jelly, pavement) without adding whole new monstrosities.<br /><br />Next time, why music isn't as good as it was in my day, and more bufty topics :)<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/unreal-words.htm" title="permanent link">6:08 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/unreal-words.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Friday, November 19, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="110089735767441207">&nbsp;</a><br />
+ <span class="PostTitle">
+  Sweet potato marshmallow</a>
+</span><br />
+      <b></b><br />The American palate is a strange beast. Not content with pancakes, bacon and maple syrup, which Louise enjoys - but I just can't get the hang of, we have a new madness: Hot Sweet Potato and Marshmallows with turkey.<br /><br />Bizarre.<br /><br />Sweet potatoes are fairly sweet anyway, hence the name, so why the marshmallows? Because you can. Next week - chilli with donuts...<br /><br />
+     <span class="PostFooter">
+     - posted by Nathan @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/sweet-potato-marshmallow.htm" title="permanent link">9:44 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/sweet-potato-marshmallow.htm">(1) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Wednesday, November 17, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="110072484865452825">&nbsp;</a><br />
+ <span class="PostTitle">
+  Baking update</a>
+</span><br />
+      For those of you who have been on tenterhooks waiting to find out if I got hold of some suet, I thought I would put you out of your misery. I eventually got a big, frozen lump of beef suet from Draeger's meat counter, and ordered glace cherries online from <a href="http://shop.bakerscatalogue.com/items/index.html">The Baker's Catalogue</a>.<br /><br />So mincemeat has been made and put in jars, following <a href="http://www.deliaonline.com/cookeryschool/howto/how_0000000067.asp">Delia's cranberried recipe</a>. I failed to follow Delia's good advice about stirring while it cools and only putting into jars once it is cold, which is why you can see a nice thick layer of suet in the picture below.<br /><img src="http://www.usingmainlyspoons.com/US/mincemeat.jpg" /><br />I also started soaking the fruits for the christmas cake this morning. I'm basically following Mary Berry's recipe, but with more candied peel so I can use up what I bought, and with the addition of some dried cherries instead of some of the currants. You'll have to wait a while to see how these turn out.<br /><br />In the meantime, N has suggested that we de-bone a turkey in honour of Thanksgiving, the weekend after next...<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/baking-update.htm" title="permanent link">9:25 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/baking-update.htm">(1) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Tuesday, November 16, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="110064790926439299">&nbsp;</a><br />
+ <span class="PostTitle">
+  The Tech</a>
+</span><br />
+      I took the Caltrain to San Jose this morning to visit The Tech Museum of Innovation, otherwise known as <a href="http://www.thetech.org">The Tech</a>. As the name suggests, this is a science and technology museum and I must say they have done an amazing job with it. I suspect having a lot of high-profile sponsors and contributors (HP, Microsoft, Accenture, Innogen, etc.) has helped, but even so there are a lot of ingenious exhibits. They currently have a large Genetics exhibition, which includes a wet lab where visitors can insert a green fluorescent protein gene into bacteria, and then view the results of their exhibit on the museum website, and a demonstration of how to extract DNA from animal tissue by precipitating it in alcohol. They also do an excellent job of looking at a lot of the ethical issues around genetics, including genetic testing in pregnancy, test-tube babies, and inherited genetic diseases.<br /><br />The reason for my visit was that I have applied to volunteer there, so look out for more posts about the museum in future!<br /><br />Update: <a href="http://my.thetech.org/genekidviewer.php?techtagnumber=E004010000D798D9&url=http://my.thetech.org/assets/genekids/card1.swf?photo=/assets/wetlab/2004/11/17/gene-6-WLIMG_0002.JPG&lang=EN&cardcode=1">Click here</a>  to see a picture of my glowing green bacteria! (It takes a moment to load).<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/tech.htm" title="permanent link">11:17 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/tech.htm">(1) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Thursday, November 11, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="110014100992657861">&nbsp;</a><br />
+ <span class="PostTitle">
+  Public transport</a>
+</span><br />
+      I have been into San Francisco both of the past couple of days. Both times I cycled to the station, took the <a href="http://www.caltrain.com">Caltrain</a> into the city, and then caught a bus to get across town. They haven't completely got the hang of public transport here I have to say. I suspect the Caltrain is somewhat underused (a bit hard to tell as I haven't used it at rush hour). It's a good enough service though, very punctual and fairly efficient, though it's hampered by very frequent stops on most services. Also, as Americans tend not to bother with bridges and tunnels for railway lines, the train sounds it's horn or rings it's bell almost constantly through the journey to warn people at the level crossings. So, not the most relaxing journey. I did get to catch a 'baby bullet' service yesterday though, which was a much smoother and quicker journey (although comparing it to a Japanese bullet train seems a bit far fetched).<br /><br />Buses in San Francisco (<a href="http://www.sfmuni.com">the Muni</a>) are also pretty frequent and efficient. The thing these two modes of transport have in common is a reluctance to tell you anything about the journey until you're actually on board. For the buses, there is very little information other than a city-wide map available at bus stops, and no help at all in identifying where other bus stops are. Comparing these to the <a href="http://www.tfl.gov.uk/buses/buses_map.shtml"><br />information on London bus stops</a> leaves a lot to be desired (although London certainly has plenty of transport problems!). Likewise, the train only announces where it will be stopping once you are on board and the train is moving - by which point it's a little late! I suppose this comes from having a train service that basically only runs along one line (to San Jose and back), the only variable being which stops it makes along the way. Still, anything is better than driving into the city...<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/public-transport.htm" title="permanent link">2:40 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/public-transport.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+    
+    <div class="Post">
+    	<a name="110014065427873775">&nbsp;</a><br />
+ <span class="PostTitle">
+  Bikes</a>
+</span><br />
+      Last weekend we decided to make a strike against the monster gas-guzzling american car and buy some bicycles. Yes, we are also going to buy a car, but the bikes should help. It's actually not such a radical move - San Francisco is where the mountain bike was invented and cycling is a really common pastime. Add that to the fact that we're very close to Stanford's campus, and lots of students with bikes, and we're in a very cycle-friendly location. So there was plenty of choice for where to buy our bikes.<br /><br />We chose Marins, influenced partly by my Dad, who has a lovely shiny new bike of theirs that he got this summer. And also because it's local! (<a href="http://www.visitmarin.org/">Marin county</a> is just north of San Francisco).<br /><br />It was a bit painful, paying for 2 new bikes along with helmets, locks, lights, a pump, and fluorescent vests. But it's worth it already - Nathan has cycled to work the past couple of days, and we are looking forward to exploring some of the cycle trails in the area. Photos will be along soon, but for now, <a href="http://www.marinbikes.com/2005_bikes/html/spec_04_sanrafael.html">here</a> is a photo of my model, and <a href="http://www.marinbikes.com/2005_bikes/html/spec_04_muirwoods.html">here</a> is one of Nath's.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/bikes.htm" title="permanent link">2:21 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/bikes.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Tuesday, November 09, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109996117266299902">&nbsp;</a><br />
+ <span class="PostTitle">
+  Baking in America</a>
+</span><br />
+      America! Land of the apple pie! The home of brownies, muffins, pancakes with maple syrup! You would have thought there would be no problems with any sort of baking here. Think again...<br /><br />While unpacking some of our things, I came across an old Christmas article with recipes for mincemeat and Christmas cake, and decided that now would be a good time to get ahead and make these things, so that we can enjoy a proper taste of Christmas here later on.<br /><br />So some fairly basic ingredients were required - raisins, currants, sultanas, glace cherries, mixed peel, brandy, suet and cooking apples. So I hit the shops in a fairly serious way. We have a really good selection of food shops near us, so I was spoilt for choice as to where to go - Whole Foods, Draegers, Andronicos, Oakville Grocery, Sigona's Farmers Market as well as plain old Safeway.<br /><br />First stop was <a href="http://www.draegers.com">Draegers</a>, a local chain of food stores that also sells equipment and offers cooking lessons. Raisins, sultanas and currants were no problem - after all, most of the world's raisins <i>come</i> from California! Brandy was also not a problem - there were about 10 varieties, in all different sizes. No sign of cherries or peel though.<br /><br />Next stop was the local <a href="http://www.safeway.com">Safeway</a>. Again, they had raisins, currants, sultanas, as well as dried apples, apricots, figs, pineapple and plums. But no cherries.<br /><br />So it was on to <a href="http://www.andronicos.com">Andronico's</a>, another local chain of food stores that started in Berkeley. They were quite helpful - cherries only appeared at the end of November though, and they didn't sell cooking apples - the closest thing they had was Granny Smiths. Next to the shopping centre and the <a href="http://www.sigonas.com">Sigona's Farmers Market</a>, a sort of greengrocers with lots of dried fruit. They had 2 types of dried cherries, as well as dried blueberries, an crystallised ginger and papaya. But no glace cherries and no peel. So on to the <a href="http://www.oakvillegrocery.com">Oakville Grocery</a>, just across the way. And what should I find on the counter - candied peel!! 2 huge jars of orange and lemon peel - but at a fairly steep price. So I bought a little of each, and asked about cherries. They did not sell them but they suggested I try <a href="http://ww5.williams-sonoma.com">Williams-Sonoma</a>, a San Francisco-based cookware shop that happens to have a branch in the same centre. So round the corner to them.<br /><br />Williams-Sonoma is a San Francisco institution and something of a kitchen heaven. The San Francisco store that we visited the other weekend has 4 floors of equipment, including some ridiculous stoves and lots of shiny copper pans. So I had quite high hopes of success with them. I wandered around the store, but there was no sign of the  items (although they did have glace <i>apricots</i>!). So I asked a cashier who said they didn't carry them, but asked me to hold on a second. She then got on the phone to her friend, who evidently basked fruit cakes herself, and asked where she got her cherries from. The answer was... Safeway!<br /><br />It seems that none of these items come into the stores until Thanksgiving is well and truly out of the way. One good thing about all these holidays is that Halloween and Thanksgiving delay the onset of Christmas in the shops, so you don't have 3 months of build-up. However, this doesn't help me. I finally ordered cherries - along with ground almonds, another hard-to-find item - from an online catalogue. I hope they are going to arrive in the next few days.<br /><br />All I need now is the suet...<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/baking-in-america.htm" title="permanent link">12:40 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/baking-in-america.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Friday, November 05, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109967991652061338">&nbsp;</a><br />
+ <span class="PostTitle">
+  Electrical fun</a>
+</span><br />
+      Firstly, for those who may have missed it, check out N's first blog post further down - Blogged up. <br /><br />Both N and I have been bemused since we arrived by the disparity between the sophistication of American society (videos that know what you want to watch, crossing lights that tell you how long you have left before the lights change, etc.) and the stone-age nature of certain other aspects, most notably their financial and electrical systems. <br /><br />Consider the humble plug. Being Brits, we can be smug in the knowledge that the UK plug design is one of the most over-engineered designs in the world. However, let's start from scratch and think about the qualities you would like from a plug that connects you to a highly dangerous 110 volt electricity supply. First you would want it to conduct electricity and actually connect you to the supply. Well, there are relatively few problems here, although if you wiggle a US plug a little, you can get the lights to flicker quite satisfactorily. Secondly, you'd probably look for some sort of safety feature that would prevent you from electrocuting yourself. Nope. Nada. The US is quite happy to leave two bare metal prongs dangling out of the wall, that can be easily grasped should you wish to end yourself. And thirdly, you might ask for a certain degree of robustness, such that a gentle tug on the cable wouldn't disconnect you (or expose those live metal parts). Again, the US plug fails on this dimension. Even high power devices like the iron will happlily dangle from the socket given the slightest provocation. What is even more amazing is that the heavy power supply transformers that are required for many electrical devices, and which are usually connected to UK plugs by a separate cable, are part of the plug here. So you have a heavy power supply literally hanging from two spindly metal prongs on the wall. Not good.<br /><br />So my mum asked me at the weekend what things I missed about the UK. That's what I miss. Electrical safety.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/electrical-fun.htm" title="permanent link">6:27 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/electrical-fun.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Wednesday, November 03, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109945455101756887">&nbsp;</a><br />
+ <span class="PostTitle">
+  Election Day</a>
+</span><br />
+      Election day today! As we don't have our cable connected yet, so I have been folowing the news and the early results on Radio 4 over the internet. It's been very reassuring to have James Naughtie keeping me up-to-date while I unpack the all the boxes of our stuff from the UK that arrived yesterday. The dramatic news so far, surprise surprise, is that the uncontroversial states have been called as expected and the 'swing' or 'battleground' states are all too close to call. Its fun to be listening as states are called very soon after the polls close - quite a change from the long wait for ballot counts in the UK.<br /><br />More on the election after we get back from the bar...<br /><br /><later><br />Turns out the closest ones are still too close to call, and if we don't know now, we probably won't know for a week (Ohio doesn't count provisional votes until 11 days after polling day!) so I'm going to bed.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/election-day.htm" title="permanent link">7:10 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/election-day.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Monday, November 01, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109934199034595695">&nbsp;</a><br />
+ <span class="PostTitle">
+  Election Special</a>
+</span><br />
+      <img src="http://www.usingmainlyspoons.com/US/election_1.jpg" /><br /><img src="http://www.usingmainlyspoons.com/US/election_2.jpg" /><br /><img src="http://www.usingmainlyspoons.com/US/election_3.jpg" /><br /><br />As there seems to be little going on in the news except the election at the moment, I thought I would bring you a Palo Alto election special.<br /><br />Of course, there is a presidential race going on out there somewhere, but there is no real evidence of it around here. As California is not a 'swing state' it is of little interest to the presidential candidate - it will certainly go democrat. Judging by the posters in people's yards, the locals are much more concerned about all the local issues which will also appear on the November 2nd ballot paper.<br /><br />American elections are interesting in that there are so many things to vote for. In Palo Alto, voters will be asked to choose their choice for President, for the Senate, for State Assembly, for City Council and be asked to vote on a number of local and statewide propositions. For the representative for State Assembly, there are two main candidates, Ira Ruskin (democrat) and Steve Poizner (republican), although, as so often in California, it's really a choice between the liberal and the more liberal guy. Interestingly, the republican candidate will not say who his choice for president will be.<br /><br />Of chief concern amongst these options seems to be Proposition I, which is a proposal to maintain and increase a parcel tax that is used to pay for Palo Alto schools to $521 per year (with certain groups of people, such as the over 65s exempt). It is refreshing to see so many homes really interested in this issue - many people who haven't bothered with Kerry/Edwards or Bush/Cheney posters are displaying a Yes on I poster. It is interesting that amongst the discussion of the presidential race and how it is all likely to come down to a few hundred voters in a couple of states, there is little room for the fact that Americans have a great deal of control over their politicians at a local level, where it might actually impact their lives.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/11/election-special.htm" title="permanent link">7:30 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/11/election-special.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+    
+    <div class="Post">
+    	<a name="109928062833795560">&nbsp;</a><br />
+ <span class="PostTitle">
+  Sunday</a>
+</span><br />
+      Well, here we are after a Great Californian Sunday, which also happens to be halloween. We actually got up and  went for a little jog in the sunshine this morning, and then rewarded ourselves with breakfast at the Peninsula Fountain and Grill, which is a diner near here that looks just like you expect a diner to look. We bought the Sunday New York Times, and we pursued those all-american activities of shopping for electronics and DIY - just what Sunday's should be all about (although Nathan might disagree, having been the one building most of the furniture).<br /><br />Anyhow, all this rambling is really only to introduce some pictures of the house, so here they are: <A HREF="http://spoons.fotopic.net">link to Fotopic gallery</a><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/10/sunday.htm" title="permanent link">2:35 AM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/10/sunday.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+	<br />
+	<p style="text-align:center">
+	<a href="http://www.blogger.com"><img alt="Powered by Blogger" border=0 src="http://buttons.blogger.com/bloggerbutton1.gif"></a>
+	</p>
+</div>
+<div class="layout" id="footer">Last updated 2006.</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-749380-1";
+urchinTracker();
+</script>
+</body>
+</html>

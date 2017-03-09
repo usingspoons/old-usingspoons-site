@@ -1,0 +1,266 @@
+<html><head><title>Wooden Spoon</title>
+
+<style>
+body		{font-family: verdana, helvetica, sans-serif; color: #333333; 
+			font-size: 0.8em; margin-left: auto; margin-right: auto; padding: 0;
+			border: 1px solid black; width: 800px;}
+h2,  .PostTitle	{font-size: 1.2em; font-weight: bold;}
+h3, .DateHeader	{font-size: 1em; font-weight: bold;}
+.DateHeader {display: block; color: gray; font-weight: bold; border-bottom: solid 1px gray; margin-right: 180px; margin: 1.5em 0 0 0;}
+a                    {color: #005cc2;}
+p, li			{line-height: 1.2;}
+div.toplevel {}
+div.layout	{margin: 0;}
+div#menu 	{background: white;}
+div#menu td {width: 133px; padding: 5px;}
+div#menu a	{font-weight: bold; text-align: center; text-decoration: none;
+			color: #005cc2; display: block; margin:0;}
+div#menu a:visited{}
+div#menu a:hover{color: white; background: #005cc2;}
+div#menu p.current {font-weight: bold; text-align: center; text-decoration: none;
+					color: #000066; border: 1px solid #005cc2;}
+
+div#banner	{background-image: url(http://www.usingmainlyspoons.com/Banners/leaves.jpg); width: 800px; height: 100px;}
+div#homebanner {background-image: url(http://www.usingmainlyspoons.com/Banners/hammersmith.jpg); width: 800px; 
+				height:400px;}
+div#title	{font-size: 28px; font-weight: bold; color: white; padding: 4px;}
+.PostFooter 	{margin: 0; padding: 0; line-height: 0;}
+div#rightnav {border: 1px dashed gray; float: right; width: 150px;
+				margin: 0 0.5em 1em 1em; padding: 1em; line-height: 1;}			
+div#intro	{font-weight: bold; color: #000066; margin: 1em 0 1em 3em; padding: 0; 
+			font-size: 1.3em;}
+div#content	{padding: 1em 4em 0 4em;}
+div#footer	{text-align: center; font-size: 0.8em; color: gray;}
+</style>
+<!-- Meta Information-->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta name="generator" content="Blogger" />
+        <!-- Site Feed Autodiscovery-->
+        <link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+
+        <!-- Atom API Posting Autodiscovery -->
+        <link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+
+        <!-- Blogger API Autodiscovery -->
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+<style type="text/css">
+@import url("http://www2.blogger.com/css/blog_controls.css");
+@import url("http://www2.blogger.com/dyn-css/authorization.css?blogID=6696593");
+</style>
+
+</head>
+
+<body>
+<div class="toplevel" id="top">
+	<div class="layout" class="home" id="banner">
+		<div id="title">Wooden Spoon</div>
+	</div>
+	<div class="layout" id="menu">
+		<table>
+		<tr>
+		<td><a href="http://www.usingmainlyspoons.com/index.html">home</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/about.html">about</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/london.html">london</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/travel.html">travel</a></td>
+		<td><p class="current">blog</p></td>
+		<td><a href="http://www.usingmainlyspoons.com/wedding.html">wedding</a></td>
+		</tr>
+		</table>
+	</div>
+</div>
+<div class="toplevel" id="bottom">
+	<div id="rightnav" class="home">
+       <script type="text/javascript" src="http://embed.technorati.com/embed/ifntxd4bk.js"></script>
+       <script type="text/javascript" src="http://embed.technorati.com/embed/nrpx623rcm.js"></script>
+	<h3>Links</h3>
+          <li><a href="http://www.technorati.com/faves/lou31">My Technorati</a> - favourite blogs</li>
+          <li><a href="http://del.icio.us/lrm20">My Del.icio.us</a> - bookmarked pages</li>
+          <li><a href="http://www.flickr.com/photos/louise_marston/">My Flickr</a> - online photos</li>
+	<h3>Archives</h3>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_10_01_'>October 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_11_01_'>November 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_12_01_'>December 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_01_01_'>January 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_02_01_'>February 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_04_01_'>April 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_05_01_'>May 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_06_01_'>June 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_07_01_'>July 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_08_01_'>August 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_11_01_'>November 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_01_01_'>January 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_02_01_'>February 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_03_01_'>March 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_05_01_'>May 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_06_01_'>June 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_07_01_'>July 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_09_01_'>September 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_10_01_'>October 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_11_01_'>November 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_12_01_'>December 2006</a></li>
+	 
+	<a href="" title="Atom feed"><img src="http://www.usingmainlyspoons.com/Images/xml.gif"></a>
+	<a href="" title="Atom feed">Atom syndication</a>
+	</div>	
+	<div class="layout" id="intro">Louise's musings on life and cooking - but mostly cooking.</div>
+	<div class="layout" id="content">
+	
+   	
+        <div class="DateHeader">Sunday, October 31, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109961367705409283">&nbsp;</a><br />
+ <span class="PostTitle">
+  Blogged up!</a>
+</span><br />
+      After some minor effort and consulting of help files we have managed to add me to the blog account, so I am able to create my own entries <ahem>:<br /><br />Despite the busy week - we managed to go to the office Halloween party on Friday in the city. For those who have never driven highway 101 to San Francisco on the Friday before Halloween - it is hard to describe. Think <a href="http://www.dfcom.freeserve.co.uk/hbw/wacky/">Wacky Races </a>meets the <a href="http://www.imdb.com/title/tt0082136/">Cannonball Run </a>with a side order of <a href="http://www.funflashgames.com/carmageddon.htm">Carmmeggedon</a>. Ugly.In any case we made it to the party, held at the very funky Fluid Lounge, and met up with a few more people. Amazingly (if you are a Brit) everyone had made an effort and the costumes were very elaborate. Of course there were the obligatory 'naughty schoolgirls' and drag queens, but more original highlights included a box of tissues - and memorably a couple dressed as sushi. Inspired.<br /><br />Overall a good time - and we felt good about getting to the city for the first time. So glad we followed L's instincts and decided to live in Palo Alto though - that commute is not funny....<br /><br />
+     <span class="PostFooter">
+     - posted by Nathan @ <a href="http://www.usingmainlyspoons.com/Blog/2004/10/blogged-up.htm" title="permanent link">7:30 PM</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Monday, October 25, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109872935659492648">&nbsp;</a><br />
+ <span class="PostTitle">
+  Service in the US</a>
+</span><br />
+      One thing that everyone visiting the US from the UK notices is their service culture. As illustrated by the cliches of "Have a nice day" and "I'm going to be your waiter for today", it's one of the most distinctive things about the States.<br /><br />Americans are starting to become conscious of the false sincerity of these pat phrases, but the sentiment behind them is genuine and persists. And the difference between service in the US and service in the UK is how it is pitched. Good service needs to fall somewhere between ingratiatingly obsequious and sullenly reluctant. The english struggle with this balance, swinging wildly from one extreme to the other (see, most obviously, Basil Fawlty).<br /><br />But the Americans have an uncanny ability to be helpful without intrusive. Take the guy in the bed shop that I went to last week. I stopped at 'Sleep Train' to look at the price of mattresses as we needed to get a bed fairly urgently. I wandered around the store for a couple of minutes before he asked if I'd like any help. He then asked if I would like him to explain the different brands they carried, and when I said yes, proceeded to explain the various benefits of each one. He gave an honest price range for the size of bed we needed, and never once gave a 'sales pitch' speech.<br /><br />And then there's the burger place we went to on Saturday night. Yes, we were living the true American dream - burgers and fries in a restarant where the baseball 'World Series' was playing on the big screen. It was a place where you order at the counter then take a number and sit down. The food was good arrived fast, cost $16 for the two of us, and at least 3 people checked that we were OK and had everything we needed during our brief meal. God bless America - or something.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/10/service-in-us.htm" title="permanent link">6:34 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/10/service-in-us.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Friday, October 22, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109872920252528326">&nbsp;</a><br />
+ <span class="PostTitle">
+  Moving in</a>
+</span><br />
+      We have now moved in - pretty impressive to arrive in a new country, find a place to live and then move in, all inside a week.  Obviously the main priority before we could inhabit the place was a bed to sleep in. Which is how we ended up in Ikea on Wednesday night. Yes, they do have Ikea in the US (although only about 20 stores nationwide) and yes, they are just as much of a pain as the ones in the UK. Don't think that Ikea are a pain? Have you ever tried to order a serious quantity of furniture from them? If you have, you will know that there is *always* some vital piece of the order that is not in stock at the moment. In our case, it was only the mattress pad, but it still nearly caused N to walk out of the place there and then. The added complication with Ikea in the US is that the staff have absolutely *no clue* how the names should be pronounced.<br /><br /><blockquote>"I'd like to order a Liared, please"<br /> "Li-wha?"<br />"Liared. L-I-A-R-E-D"<br />"L-Y-R..."<br />"No, L-I..</blockquote> etc. etc.<br /><br />I know they're all nonsense Swedish names anyway, but I could swear that UK employees have much better stabs at pronunciation. Americans just aren't used to having to deal with another language, unless it's Spanish (or, for some reason, Tagalog - there are churches here that advertise special services in Tagalog).<br /> <br />So the conclusion to this story is that we are now safely installed in our new house - we have a bed, and a spare for all you budding guests out there, two rocking chairs, a dining table and chairs and bedding.<br /><br />Next comes the sofa...<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/10/moving-in.htm" title="permanent link">5:31 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/10/moving-in.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Wednesday, October 20, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109872906830192140">&nbsp;</a><br />
+ <span class="PostTitle">
+  You might as well have spokey-dokeys!</a>
+</span><br />
+      Americans really like cars. They generally like big cars. That's not really a problem because there are plenty of big roads to drive them on. The main road running along the southern edge of Palo Alto (called El Camino Real) is a 6 lane highway, with a speed limit of 35 mph. Admittedly, we are not in a very representative part of America here. We are in California for starters, which is a pretty cosmopolitan state, and then we're living in Palo Alto, a town where something like 65% of the adult population have 4 years of college education (i.e. an undergraduate degree). So we see quite a few VW Beetles, Minis and Volvos as well as the Dodge Durangos and Ford Pickups. But the weirdest thing I have seen so far, car-wise, was a hopped-up blue something, metallic paint, tinted windows, and <i>chromed hubcaps that spin around when the wheels aren't moving</i>. Now I am told by the knowledgeable N that these are illegal in the UK, for the obvious reason that they make your wheels look like they are moving when they aren't.  My thoughts were, as a piece of car decoration, they make about as much sense as spokey-dokeys for bikes!<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/10/you-might-as-well-have-spokey-dokeys.htm" title="permanent link">6:29 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/10/you-might-as-well-have-spokey-dokeys.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Monday, October 18, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109811729916951818">&nbsp;</a><br />
+ <span class="PostTitle">
+  Observations</a>
+</span><br />
+      It's Monday morning - we've been in California just over 2 days now, and here are some observations - may of which have been made before by other people, so apologies for repetition:<br /><ul>   <li>Some people own some very silly cars.</li>   <li>But that's OK, because even the fairly minor roads are 6 lanes wide.<br /> </li>   <li>There seems to be some sort of election going on here. We were asked if we wanted to register to vote yesterday - tempting to see if would work, but we resisted.</li>   <li>People drive really slow - the speed limit in most areas is 35 mph, except on the freeway.</li><li>The weather is *so* much better here!! OK, so it's rained a couple of times already, but it's warm rain, and it's so unusual is occupies most of the local news.</li>   <li>Nothing comes in small sizes - juice cartons, bags of rice, cups of coffee - everything is large, because there's always plenty of space.<br />  </li>  </ul><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/10/observations.htm" title="permanent link">4:30 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/10/observations.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+    
+    <div class="Post">
+    	<a name="109811703342435617">&nbsp;</a><br />
+ <span class="PostTitle"></span><br />
+      You have no concept of how much stuff is in your life until you have had to pack the whole lot into cardboard boxes in 12 hours. Which is what we did on Friday.<br />OK, so we cheated a little bit. The day started with the shipping company coming to take the 180 cubic feet of our things that we can ship by air freight. Fortunately, these guys packed as well, so all we had to do was point them at the relevant shelves and cupboards and they did the rest - scarily fast as well. N took great pleasure in pointing out the number of boxes that were required just to pack up the kitchen. But what's the point of coming to California to take a cookery course if you don't bring your tools??<br />So after about 2 and a half hours, the shipping was all packed up. The rest of the day was packing up boxes for storage. We must have thrown away about 15 sacks of rubbish over the course of the day, and I took 4 trips to the charity shop around the corner as well - and we still ended up with a ridiculous amount of stuff!<br />But we did get it all done in one day - from a completely full flat to a completely empty (and completely clean) flat by about 9:30pm. Impressive. But by that point we were too tired to care...<br /><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/10/you-have-no-concept-of-how-much-stuff.htm" title="permanent link">4:13 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/10/you-have-no-concept-of-how-much-stuff.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Friday, October 08, 2004</div>
+    
+    
+    <div class="Post">
+    	<a name="109726278898842379">&nbsp;</a><br />
+ <span class="PostTitle"></span><br />
+      <span style="font-family: verdana;">So, it starts here.<br />This is our last week in the UK.<br />Passports - check.<br />Visas - check.<br />Tickets - check (i hope)<br />So its just the packing to be done now - the simple process of parcelling a 2 bedroom flat into 4 heaps:<br />1) Ship to the US<br />2) Store for a year<br />3) Pack in a case to go on the flight<br />4) Get it out of the house - Oxfam, my sister, anyone else who will take things from us.<br />Oh, how simple it all sounds when you list it like that. My contribution to this so far has been primarily the placing of small sticky dots on various items, colour-coded to correspond to the groups above. On the other hand, I may be confusing 'contribution' with 'displacement activity'.<br /></span><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2004/10/so-it-starts-here.htm" title="permanent link">7:09 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2004/10/so-it-starts-here.htm">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+	<br />
+	<p style="text-align:center">
+	<a href="http://www.blogger.com"><img alt="Powered by Blogger" border=0 src="http://buttons.blogger.com/bloggerbutton1.gif"></a>
+	</p>
+</div>
+<div class="layout" id="footer">Last updated 2006.</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-749380-1";
+urchinTracker();
+</script>
+</body>
+</html>

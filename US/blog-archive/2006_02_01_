@@ -1,0 +1,238 @@
+<html><head><title>Wooden Spoon</title>
+
+<style>
+body		{font-family: verdana, helvetica, sans-serif; color: #333333; 
+			font-size: 0.8em; margin-left: auto; margin-right: auto; padding: 0;
+			border: 1px solid black; width: 800px;}
+h2,  .PostTitle	{font-size: 1.2em; font-weight: bold;}
+h3, .DateHeader	{font-size: 1em; font-weight: bold;}
+.DateHeader {display: block; color: gray; font-weight: bold; border-bottom: solid 1px gray; margin-right: 180px; margin: 1.5em 0 0 0;}
+a                    {color: #005cc2;}
+p, li			{line-height: 1.2;}
+div.toplevel {}
+div.layout	{margin: 0;}
+div#menu 	{background: white;}
+div#menu td {width: 133px; padding: 5px;}
+div#menu a	{font-weight: bold; text-align: center; text-decoration: none;
+			color: #005cc2; display: block; margin:0;}
+div#menu a:visited{}
+div#menu a:hover{color: white; background: #005cc2;}
+div#menu p.current {font-weight: bold; text-align: center; text-decoration: none;
+					color: #000066; border: 1px solid #005cc2;}
+
+div#banner	{background-image: url(http://www.usingmainlyspoons.com/Banners/leaves.jpg); width: 800px; height: 100px;}
+div#homebanner {background-image: url(http://www.usingmainlyspoons.com/Banners/hammersmith.jpg); width: 800px; 
+				height:400px;}
+div#title	{font-size: 28px; font-weight: bold; color: white; padding: 4px;}
+.PostFooter 	{margin: 0; padding: 0; line-height: 0;}
+div#rightnav {border: 1px dashed gray; float: right; width: 150px;
+				margin: 0 0.5em 1em 1em; padding: 1em; line-height: 1;}			
+div#intro	{font-weight: bold; color: #000066; margin: 1em 0 1em 3em; padding: 0; 
+			font-size: 1.3em;}
+div#content	{padding: 1em 4em 0 4em;}
+div#footer	{text-align: center; font-size: 0.8em; color: gray;}
+</style>
+<!-- Meta Information-->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta name="generator" content="Blogger" />
+        <!-- Site Feed Autodiscovery-->
+        <link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+
+        <!-- Atom API Posting Autodiscovery -->
+        <link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+
+        <!-- Blogger API Autodiscovery -->
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<meta name="generator" content="Blogger" />
+<link rel="alternate" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.usingmainlyspoons.com/US/atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="Wooden Spoon - RSS" href="http://www.usingmainlyspoons.com/US/rss.xml" />
+<link rel="service.post" type="application/atom+xml" title="Wooden Spoon - Atom" href="http://www.blogger.com/feeds/6696593/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www2.blogger.com/rsd.g?blogID=6696593" />
+<style type="text/css">
+@import url("http://www2.blogger.com/css/blog_controls.css");
+@import url("http://www2.blogger.com/dyn-css/authorization.css?blogID=6696593");
+</style>
+
+</head>
+
+<body>
+<div class="toplevel" id="top">
+	<div class="layout" class="home" id="banner">
+		<div id="title">Wooden Spoon</div>
+	</div>
+	<div class="layout" id="menu">
+		<table>
+		<tr>
+		<td><a href="http://www.usingmainlyspoons.com/index.html">home</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/about.html">about</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/london.html">london</a></td>
+		<td><a href="http://www.usingmainlyspoons.com/travel.html">travel</a></td>
+		<td><p class="current">blog</p></td>
+		<td><a href="http://www.usingmainlyspoons.com/wedding.html">wedding</a></td>
+		</tr>
+		</table>
+	</div>
+</div>
+<div class="toplevel" id="bottom">
+	<div id="rightnav" class="home">
+       <script type="text/javascript" src="http://embed.technorati.com/embed/ifntxd4bk.js"></script>
+       <script type="text/javascript" src="http://embed.technorati.com/embed/nrpx623rcm.js"></script>
+	<h3>Links</h3>
+          <li><a href="http://www.technorati.com/faves/lou31">My Technorati</a> - favourite blogs</li>
+          <li><a href="http://del.icio.us/lrm20">My Del.icio.us</a> - bookmarked pages</li>
+          <li><a href="http://www.flickr.com/photos/louise_marston/">My Flickr</a> - online photos</li>
+	<h3>Archives</h3>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_10_01_'>October 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_11_01_'>November 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2004_12_01_'>December 2004</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_01_01_'>January 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_02_01_'>February 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_04_01_'>April 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_05_01_'>May 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_06_01_'>June 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_07_01_'>July 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_08_01_'>August 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2005_11_01_'>November 2005</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_01_01_'>January 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_02_01_'>February 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_03_01_'>March 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_05_01_'>May 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_06_01_'>June 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_07_01_'>July 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_09_01_'>September 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_10_01_'>October 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_11_01_'>November 2006</a></li>
+	
+ 		<li><a href='http://www.usingmainlyspoons.com/Blog/2006_12_01_'>December 2006</a></li>
+	 
+	<a href="" title="Atom feed"><img src="http://www.usingmainlyspoons.com/Images/xml.gif"></a>
+	<a href="" title="Atom feed">Atom syndication</a>
+	</div>	
+	<div class="layout" id="intro">Louise's musings on life and cooking - but mostly cooking.</div>
+	<div class="layout" id="content">
+	
+   	
+        <div class="DateHeader">Monday, February 27, 2006</div>
+    
+    
+    <div class="Post">
+    	<a name="114107597917115582">&nbsp;</a><br />
+ <span class="PostTitle">
+  Britain's Biggest Ever Robbery</a>
+</span><br />
+      <p>It was confirmed tonight that at &#163;53 116 760, <a href="http://www.guardian.co.uk/crime/article/0,,1719192,00.html">last week's Kent robbery</a> was the biggest ever in the UK. This made me wonder how we rank in the world league table of robberies. What was the biggest ever robbery in the U.S.? What about Ireland? Were these others similar schemes, or more complicated? This sort of thing is a staple of Hollywood (and British) films, but how many of them sound like film plots?</p><br /><strong><a href="http://en.wikipedia.org/wiki/Central_Bank_of_Iraq">Iraq Central Bank</a>, March 2003</strong><br /><p>Iraq Central Bank - theft of $900 million in U.S. bills and 82 million euros during the U.S.-led invasion. This seems to be considered the largest bank heist in history, and took place over several days. Although reports are a little hazy, this appears to have been Saddam Hussein's family claiming money from their "personal piggy-bank". Some reports indicate that Saddam's son Qusay directed the robbery, which involved little more than men arriving with a note from Saddam and then loading the cash into vans. Much of the money was later recovered from Saddam's palaces.</p><br /><strong><a href="http://en.wikipedia.org/wiki/Knightsbridge_Security_Deposit_robbery">Knightsbridge Safe Deposit Centre</a>, London, 1987</strong><br /><p>Two men asked to hire a Safe Deposit box, and once inside the vault, they produced guns and overpowered the manager and other guards. They then displayed a sign telling the public that the vault was closed before letting in other accomplices. They broke open safe deposit boxes and left with an estimated &#163;40 million. Several people were arrested after fingerprints were found on one of the deposit box doors and matched to an Italian who was also wanted in connection with other armed robberies.</p><br /><strong><a href="http://en.wikipedia.org/wiki/Banco_Central_robbery_at_Fortaleza">Banco Central, Forzaleza</a>, Brazil, August 2005</strong><br /><p>The robbery of 164 million reals (&#163;38.6 million) from a Central Bank vault. The robbers spent 3 months digging a 260 feet tunnel from a house they had rented near the bank. One weekend, they burst from the tunnel into the vault and took the cash away. The aftermath of this incident is continuing - several people have been arrested and various people suspected of the robbery or related to the suspects have since been abducted or killed, presumably by people who know that have enough money to pay large ransoms.</p><br /><strong><a href="http://en.wikipedia.org/wiki/Northern_Bank_robbery">The Northern Bank Robbery</a>, December 2004</strong><br /><p>Famously Ireland's biggest ever robbery was the theft of &#163;26.5 million from the Northern Bank in Belfast in which the IRA were implicated. This robbery, like the Tonbridge incident, involved the families of bank employees being held hostage in order that the robbers could be given access to the vault.</p><br /><p>It's striking how many of these stories resemble film plots - I'm sure that a film of the Brazilian robbery is in the works as we speak. But few of these have Hollywood happy endings - arrest, kidnap, death. It's not an easy life for a bank robber, it would seem.</p><br /><!-- technorati tags start --><p style="text-align:right;font-size:10px;">Technorati Tags: <a href="http://www.technorati.com/tag/bank" rel="tag">bank</a>, <a href="http://www.technorati.com/tag/robbery" rel="tag">robbery</a>, <a href="http://www.technorati.com/tag/uk" rel="tag">uk</a></p><!-- technorati tags end --><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/02/britains-biggest-ever-robbery.html" title="permanent link">9:31 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/02/britains-biggest-ever-robbery.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Thursday, February 23, 2006</div>
+    
+    
+    <div class="Post">
+    	<a name="114070357751566774">&nbsp;</a><br />
+ <span class="PostTitle">
+  Film trailers</a>
+</span><br />
+      I've spent some time today (probably more than warranted) looking at some new film trailers, and I thought I would give a little digest of the best:<br /><strong><br /></strong><strong><a href="http://www.apple.com/trailers/sony_pictures/marieantoinette/">Marie Antoinette</a></strong><br />This is the next film from Sofia Coppola (Lost in Translation, The Virgin Suicides) looks like biopic of the spoilt Queen of France, with Kirsten Dunst in the title role, and Jason Schwarzman (rather improbably) as Louis XVI. The most unusual thing about this trailer is that, while this looks like a standard period adaptation, complete with fabulous locations and uplift corsetry, the soundtrack to the trailer is New Order's "Age of Consent". Intriguing. Unfortunately, it's not due out until December in the UK.<br /><br /><strong><a href="http://www.apple.com/trailers/universal/americandreamz/">American Dreamz</a></strong><br />Despite the unpromising title, this is obviously an American satire, with a dumb Southern US president, played by Dennis Quaid, and the host of a reality TV show where new pop stars are discovered, played by Hugh Grant. As this is directed by <a href="http://www.imdb.com/name/nm0919369/">Paul Weitz</a> (American Pie, In Good Company, About a Boy) it's anyone guess which of these three previous films it might resemble. Due for release in April.<br /><br /><strong><a href="http://www.apple.com/trailers/focus_features/brick/">Brick</a></strong><br />This looks like a noir thriller, with the novel twist of being set in a high school. Joseph Gordon-Levitt (Third Rock from the Sun) plays the Marlowe-esque character drawn into shady dealings. Looks good, but no UK release date yet according to <a href="http://www.imdb.com">IMDB</a>.<br /><br />I viewed these from Apple's trailers site: <a href="http://www.apple.com/trailers">apple.com/trailers</a>, where you'll need Quicktime to view them. <a href="http://www.empiremagazine.co.uk">Empire Magazine</a> also has a great site, and will show all the possible trailers in all formats available.<br /><br /><!-- technorati tags start --><p style="text-align:right;font-size:10px;">Technorati Tags: <a href="http://www.technorati.com/tag/films" rel="tag">films</a>, <a href="http://www.technorati.com/tag/reviews" rel="tag">reviews</a></p><!-- technorati tags end --><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/02/film-trailers.html" title="permanent link">2:00 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/02/film-trailers.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Wednesday, February 22, 2006</div>
+    
+    
+    <div class="Post">
+    	<a name="114063031437386244">&nbsp;</a><br />
+ <span class="PostTitle">
+  Meme: Top Ten iTunes most played</a>
+</span><br />
+      I don't think I've done a <a href="http://thedailymeme.com/what-is-a-meme/">meme</a> on here before, but I just saw a good one over at <a href="http://www.scalzi.com/whatever/004036.html">Whatever</a> and thought that I would be interested in the results, so maybe you are too.<br /><br />So here is the top ten tracks in my iTunes library by play count (how many times they have been played on either iTunes or my iPod). Like <a href="http://www.scalzi.com/whatever/">John Scalzi</a>, I have included only the most played track from each album to remove the effect of playing the whole album a lot:<br /><ol><li></li><li>All Star, Smashmouth - Shrek Soundtrack</li><li>The Right Place, Eddi Reader - Eddi Reader</li><li>The 59th Street Bridge Song (Feeling Groovy), Simon &#38; Garfunkel - Greatest Hits</li><li>Big Time Sensuality, Bjork - Debut</li><li>Caramel, Suzanne Vega - Greatest Hits, but I heard it first on the soundtrack to The Truth about Cats and Dogs</li><li>Layla, Eric Clapton - Unplugged</li><li>Respect, Aretha Franklin - First Lady of Soul</li><li>One Week, Barenaked Ladies - Stunt</li><li>Weather With You, Crowded House - Woodface</li><li>Stan, Eminem - Marshall Mathers LP</li></ol><br />Most of those I identify as upbeat songs that I play to get me in a good mood - especially All Star. They are also all songs that have featured in my CD collection for quite a long while - but I suppose that is inevitable when you count since I started using iTunes (circa 2003). If only you could count the most played tracks this year...<br /><br /><!-- technorati tags start --><p style="text-align:right;font-size:10px;">Technorati Tags: <a href="http://www.technorati.com/tag/iTunes" rel="tag">iTunes</a>, <a href="http://www.technorati.com/tag/music" rel="tag">music</a>, <a href="http://www.technorati.com/tag/meme" rel="tag">meme</a></p><!-- technorati tags end --><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/02/meme-top-ten-itunes-most-played.html" title="permanent link">5:43 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/02/meme-top-ten-itunes-most-played.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Tuesday, February 14, 2006</div>
+    
+    
+    <div class="Post">
+    	<a name="113993981944027973">&nbsp;</a><br />
+ <span class="PostTitle">
+  The discipline of writing</a>
+</span><br />
+      <p>I have been reading a lot of <a href="http://www.wilwheaton.net">Wil Wheaton</a> recently, mostly because he's been writing a lot. He's been making himself write for at least 10 minutes a day, and it seems to be working for him - making him more creative and productive. I find it inspirational(as well as funny and true and good writing), and it has spurred me, once again, into trying to write more regularly on this blog.</p><br /><p>It is a strange truism that if you want something done, give it to someone who's busy. When your day is full, it is easy to accommodate another task or two; when it is empty, you procrastinate, on the basis that you have plenty of time, and will find just the right moment for the task. And of course, you don't. Time drifts along, and suddenly it's 16:49 and you wonder 'Where has my day gone? When I had a job, I would have done 7 hours work by now - I can't possibly have done 7 hours worth of anything today.' And you forget that of those 7 hours, by no means all of them used to be dedicated to real-cranking-through-it work, but this does not diminish the fact that once again, you seem to have wasted your day.</p><br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/02/discipline-of-writing.html" title="permanent link">5:55 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/02/discipline-of-writing.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+   	
+        <div class="DateHeader">Saturday, February 11, 2006</div>
+    
+    
+    <div class="Post">
+    	<a name="113969449041968543">&nbsp;</a><br />
+ <span class="PostTitle">
+  What Every Woman Wants</a>
+</span><br />
+      Browsing through the weekend papers online, I came across <a href="http://news.ft.com/cms/s/e284c6f0-9a24-11da-8b63-0000779e2340.html">a story in the FT</a> which featured this tagline:<br /><blockquote>"Forget the lingerie, what every woman wants is a classic accessory and this year's essential item is the Fendi B bag."</blockquote><br />Now, last time I checked, I am a woman, and I have have no idea what a Fendi B bag is, still less do I want one. It made me think, though, about the use of the phrase 'every woman wants'. I am generally opposed to lumping together 51% of the world's population as if we automatically had some secret bond and secret password. But I was curious as to what else 'every woman' was supposed to be after. I little Google New search turned up these gems:<br /><blockquote><a href="http://www.prweb.com/releases/2006/2/prweb339973.htm">Every woman wants to feel sexy</a></blockquote><br /><blockquote><a href="http://www.vanguardngr.com/articles/2002/columns/fashionpersonality/fp11022006.html">Every woman wants to feel special</a></blockquote><br /><blockquote><a href="http://news.independent.co.uk/media/article343556.ece">Every woman wants to look great</a></blockquote><br /><blockquote><a href="http://www.prweb.com/releases/2006/2/prweb344447.htm">Every woman wants to go on vacation and know that they can swim and sun without having to worry about the mascara running</a></blockquote><br /></br><br />I particularly like that last one. <br />It depresses me to think that, while generalisations will always be around, the generalisation for women always seems to tend towards material acquisitions and insecurity. Is this the reality? Let's have a look at a Google News search for 'every man wants'. Well firstly, in contrast to 13 results for women, we get only 4 for men:<br /><blockquote><a href="http://www.inweekly.net/article.asp?artID=2312">...every man wants a whole lot of themselves in Carmen</a></blockquote><br /><blockquote>Every man wants to be ...  a complete Don Juan</blockquote><br /><blockquote><a href="http://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2006/01/21/sfntyl21.xml&#38;sSheet=/sport/2006/01/21/ixfooty.html">Every man wants to date a teenage pin-up</a></blockquote><br /><blockquote><a href="http://www.kobtv.com/index.cfm?viewer=storyviewer&#38;id=23867&#38;cat=NMTOPSTORIES">Coble told a woman who ran a stop sign that he wanted "what every man wants" in exchange for tearing up the citation</a></blockquote><br />So that's fairly clear - sex, sex, sex and sex. Certainly just as stereotypical, but (in this extremely unscientific sample) fewer results. But maybe the sample is really skewed because of the pool that Google News draws from. Let's have a look at just The Guardian for now:<br /><blockquote><a href="http://observer.guardian.co.uk/focus/story/0,,1535037,00.html">This season, every woman wants to be a bag lady.</a></blockquote><br /><blockquote><a href="http://www.guardian.co.uk/Columnists/Column/0,,1232609,00.html">Yet no one likes to mention this for fear of offending feminists who would have us believe that every woman wants to do a job rather than stay at home.</a></blockquote><br /><blockquote><a href="http://www.guardian.co.uk/editor/story/0,,1021893,00.html">Every woman wants to look good in her Jimmy Choos, but is foot surgery really the way to do it?</a></blockquote><br /><blockquote><a href="http://www.guardian.co.uk/women/story/0,,257504,00.html">Long hair is what every woman wants.</a></blockquote><br /><blockquote><a href="http://football.guardian.co.uk/comment/story/0,,1651652,00.html">Well, I think it's just the thing that every man wants - to have a son and heir.</a></blockquote><br /><blockquote><a href="http://film.guardian.co.uk/features/featurepages/0,,1230789,00.html">Every man wants to chase a pretty girl if he sees one.</a></blockquote><br /><blockquote><a href="http://books.guardian.co.uk/reviews/artsandentertainment/0,,855703,00.html">Every man wants to be a superman, to make love to anything.</a></blockquote><br /><blockquote><a href="http://www.guardian.co.uk/uk_news/story/0,,436145,00.html">... every man wants to be in his missus.</a></blockquote><br />So what have we learned? Maybe not that much. Maybe that women are stereotyped as fashion-obsessed shopaholics, whilst men are stereotyped as sex obsessed - which is perhaps confirmed by looking at the magazines aimed at Men's and Women's issues. Or maybe that those who write (or are quoted as saying) such lazy phrases as 'every man/woman wants' aren't to be relied on for their lightning insights. Whatever. It troubles me.<br /><br />It also troubles me that all Motorola has to do to get a runaway success phone is <a href="http://blogs.guardian.co.uk/technology/archives/2005/10/19/pink_pound_what_do_women_really_want.html">make it pink</a>. And that all a girl wants for Valentine's day is a <a href="http://www.engadget.com/2006/02/08/valentines-day-engadget-style/">pink laptop</a>. Ah well. At least we can vote.<br />
+     <span class="PostFooter">
+     - posted by louise @ <a href="http://www.usingmainlyspoons.com/Blog/2006/02/what-every-woman-wants.html" title="permanent link">9:47 PM</a>&nbsp;<a href="http://www.usingmainlyspoons.com/Blog/2006/02/what-every-woman-wants.html">(0) comments</a>       
+</span>
+</br> 
+    </div>
+	
+	
+	<br />
+	<p style="text-align:center">
+	<a href="http://www.blogger.com"><img alt="Powered by Blogger" border=0 src="http://buttons.blogger.com/bloggerbutton1.gif"></a>
+	</p>
+</div>
+<div class="layout" id="footer">Last updated 2006.</div>
+</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-749380-1";
+urchinTracker();
+</script>
+</body>
+</html>

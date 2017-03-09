@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAANb9mPHmWA4tWqj_q3vFVbRSh0MwIUCbCbiYeBhvDCmH2xRc8txSS2rJsLPu_k-PwqbzicxIVqWdalw" type="text/javascript"></script>
+  </head>
+  <body>
+  	<h2>Map of Commuter Routes to London</h2>
+    <div id="map" style="width: 500px; height: 400px"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+    
+    var map = new GMap(document.getElementById("map"));
+    map.addControl(new GSmallMapControl());
+    map.centerAndZoom(new GPoint(-0.3262, 51.5176), 8); //long then lat
+    
+    var point = new GPoint(-0.607, 51.6736); //Amersham co-ordinates
+	var marker = new GMarker(point);
+  	map.addOverlay(marker);
+    
+    //]]>
+    </script>
+  </body>
+</html>
